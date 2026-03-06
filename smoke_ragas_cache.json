@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "references": {
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.": "Battery Cell:\n- Hitachi Astemo Americas Inc.\n- Honda Development & Manufacturing\n\nBattery Pack:\n- F&P Georgia Manufacturing\n- Hollingsworth & Vose Co.\n- Hyundai Motor Group\n- IMMI\n\nCharging Infrastructure:\n- Morgan Corp.\n\nGeneral Automotive:\n- Fouts Brothers Fire Equipment\n- Hitachi Astemo\n- Hwashin\n- Hyundai & LG Energy Solution (LGES)\n- Hyundai Industrial Co.\n- Hyundai MOBIS (Georgia)\n- Hyundai Transys Georgia Seating Systems\n- IMS Gear Georgia Inc.\n- Inalfa Roof Systems Inc.\n- JAC Products Inc.\n- JTEKT North America Corp.\n- Jefferson Southern Corp.\n- Jefferson Southern Corporation\n- Joon Georgia, Inc.\n- KTX America Corporation\n- Kautex Inc.\n- Kumho Tire USA Inc.\n- Kyungshin America Corp.\n- Lark United Manufacturing Inc.\n- Lear Corporation\n- Lehigh Technologies Inc.\n- Linde + Wiemann\n- Lund International Inc.\n- Lund International Inc./Ventshade Division\n- Lyle Industries Inc.\n- Lyle Industries Inc.\n- MAT Heavy Duty\n- Mack Trucks\n- Magna International\n- Mando America Corp.\n- Master Craft Engineering Inc.\n- Maxxis International USA\n- Mercedes-Benz USA LLC\n- Michelin Tread Technologies\n- Milliken & Co./Valway Plant\n- Mobis Alabama LLC\n- MollerTech LLC\n- Murata Electronics North America Inc.\n- NIFCO KTW America Corp.\n- NVH Korea\n- Neaton Rome Inc.\n- Nidec Elesys Americas Corp.\n- Nile Automotive\n- Nisshinbo Automotive Manufacturing Inc.\n- Nivel Parts & Manufacturing Co. LLC\n- Novelis Inc.\n- Novelis Inc.\n- OTR Wheel Engineering Inc.\n- Oneda Corp.\n- PAI Industries Inc.\n- PIOLAX Corp.\n- PPG Industries Inc.\n- Paccar\n- Pak-Lite Inc.\n- Panasonic Automotive Systems Co.\n- Panduit Corp.\n- Perkins Small Engines LLC\n- Peterson Spring\n- Piedmont Automotive Products Inc.\n- Pirelli Tire North America LLC\n- Porsche Cars North America Inc.\n- Propex Operating Co. LLC\n- QSR Inc.\n- Racemark International LLC\n- RealTruck\n- Rivian Automotive\n- Robert Bosch LLC\n- SAFT America Inc.\n- SHIROKI North America Inc\n- SKF USA Inc.\n- SRG Global Inc.\n- Sejong Georgia LLC\n- Seohan Auto USA\n- Seoyon E-HWA\n- Seoyon E-Hwa Interior Systems\n- Sewon America Inc.\n- Sewon America Inc.\n- Sewon America Inc.\n- Solvay Specialty Polymers USA LLC\n- Southern Switches Corp.\n- Stryten Energy\n- Suhner Manufacturing Corp.\n\nMaterials:\n- PHA Body Systems LLC\n- Panasonic Automotive Systems Co.\n- SK Battery America\n- Sumitomo Electric Wiring Systems\n\nThermal Management:\n- Hyundai Transys Georgia Powertrain\n- Novelis Inc.\n- Peerless-Winsmith Inc.",
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.": "- Company: F&P Georgia Manufacturing | Category: Tier 1/2 | Product / Service: Lithium-ion battery recycler and raw materials provider | Location: Toccoa, Stephens County | Employment: 104\n- Company: Hollingsworth & Vose Co. | Category: Tier 1/2 | Product / Service: Lithium-ion battery materials | Location: Bainbridge, Decatur County | Employment: 400\n- Company: Hyundai Motor Group | Category: Tier 1/2 | Product / Service: Battery parts for electric vehicles | Location: McDonough, Henry County | Employment: 164\n- Company: IMMI | Category: Tier 1/2 | Product / Service: Battery electrolyte | Location: Jefferson, Jackson County | Employment: 100"
+  },
+  "scores": {
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.75
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    }
+  }
+}

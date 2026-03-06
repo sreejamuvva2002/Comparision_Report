@@ -1,0 +1,1945 @@
+{
+  "version": 1,
+  "references": {
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.": "Battery Cell:\n- Hitachi Astemo Americas Inc.\n- Honda Development & Manufacturing\n\nBattery Pack:\n- F&P Georgia Manufacturing\n- Hollingsworth & Vose Co.\n- Hyundai Motor Group\n- IMMI\n\nCharging Infrastructure:\n- Morgan Corp.\n\nGeneral Automotive:\n- Fouts Brothers Fire Equipment\n- Hitachi Astemo\n- Hwashin\n- Hyundai & LG Energy Solution (LGES)\n- Hyundai Industrial Co.\n- Hyundai MOBIS (Georgia)\n- Hyundai Transys Georgia Seating Systems\n- IMS Gear Georgia Inc.\n- Inalfa Roof Systems Inc.\n- JAC Products Inc.\n- JTEKT North America Corp.\n- Jefferson Southern Corp.\n- Jefferson Southern Corporation\n- Joon Georgia, Inc.\n- KTX America Corporation\n- Kautex Inc.\n- Kumho Tire USA Inc.\n- Kyungshin America Corp.\n- Lark United Manufacturing Inc.\n- Lear Corporation\n- Lehigh Technologies Inc.\n- Linde + Wiemann\n- Lund International Inc.\n- Lund International Inc./Ventshade Division\n- Lyle Industries Inc.\n- Lyle Industries Inc.\n- MAT Heavy Duty\n- Mack Trucks\n- Magna International\n- Mando America Corp.\n- Master Craft Engineering Inc.\n- Maxxis International USA\n- Mercedes-Benz USA LLC\n- Michelin Tread Technologies\n- Milliken & Co./Valway Plant\n- Mobis Alabama LLC\n- MollerTech LLC\n- Murata Electronics North America Inc.\n- NIFCO KTW America Corp.\n- NVH Korea\n- Neaton Rome Inc.\n- Nidec Elesys Americas Corp.\n- Nile Automotive\n- Nisshinbo Automotive Manufacturing Inc.\n- Nivel Parts & Manufacturing Co. LLC\n- Novelis Inc.\n- Novelis Inc.\n- OTR Wheel Engineering Inc.\n- Oneda Corp.\n- PAI Industries Inc.\n- PIOLAX Corp.\n- PPG Industries Inc.\n- Paccar\n- Pak-Lite Inc.\n- Panasonic Automotive Systems Co.\n- Panduit Corp.\n- Perkins Small Engines LLC\n- Peterson Spring\n- Piedmont Automotive Products Inc.\n- Pirelli Tire North America LLC\n- Porsche Cars North America Inc.\n- Propex Operating Co. LLC\n- QSR Inc.\n- Racemark International LLC\n- RealTruck\n- Rivian Automotive\n- Robert Bosch LLC\n- SAFT America Inc.\n- SHIROKI North America Inc\n- SKF USA Inc.\n- SRG Global Inc.\n- Sejong Georgia LLC\n- Seohan Auto USA\n- Seoyon E-HWA\n- Seoyon E-Hwa Interior Systems\n- Sewon America Inc.\n- Sewon America Inc.\n- Sewon America Inc.\n- Solvay Specialty Polymers USA LLC\n- Southern Switches Corp.\n- Stryten Energy\n- Suhner Manufacturing Corp.\n\nMaterials:\n- PHA Body Systems LLC\n- Panasonic Automotive Systems Co.\n- SK Battery America\n- Sumitomo Electric Wiring Systems\n\nThermal Management:\n- Hyundai Transys Georgia Powertrain\n- Novelis Inc.\n- Peerless-Winsmith Inc.",
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.": "- Company: F&P Georgia Manufacturing | Category: Tier 1/2 | Product / Service: Lithium-ion battery recycler and raw materials provider | Location: Toccoa, Stephens County | Employment: 104\n- Company: Hollingsworth & Vose Co. | Category: Tier 1/2 | Product / Service: Lithium-ion battery materials | Location: Bainbridge, Decatur County | Employment: 400\n- Company: Hyundai Motor Group | Category: Tier 1/2 | Product / Service: Battery parts for electric vehicles | Location: McDonough, Henry County | Employment: 164\n- Company: IMMI | Category: Tier 1/2 | Product / Service: Battery electrolyte | Location: Jefferson, Jackson County | Employment: 100",
+    "Which companies are classified under Battery Cell, and which Primary OEMs are they linked to?": "Companies classified under Battery Cell are:\n- Hitachi Astemo Americas Inc.\n- Honda Development & Manufacturing\n\nThese companies are linked to Primary OEMs Hyundai and Kia.",
+    "Map the companies whose EV Supply Chain Role is Thermal Management, including their Location and Primary Facility Type.": "- Company: Freudenberg-NOK | Location: Carnesville, Franklin County | Primary Facility Type: Not specified\n- Company: Hyundai Transys Georgia Powertrain | Location: Dublin, Laurens County | Primary Facility Type: Not specified\n- Company: Novelis Inc. | Location: Lawrenceville, Gwinnett County | Primary Facility Type: Not specified\n- Company: Peerless-Winsmith Inc. | Location: Statesboro, Bulloch County | Primary Facility Type: Not specified\n- Company: ZF Gainesville LLC | Location: Georgia | Primary Facility Type: Not specified",
+    "Which companies are tagged as Power Electronics, and what Product / Service do they provide?": "Companies tagged as Power Electronics and their Product/Service:\n\n- **GSC Steel Stamping LLC**\n  - Product / Service: Deep grove ball bearings, Toyota Industries Electric Systems North 255 DC-to-DC converters, Jackson America, Inc.*\n\n- **Yazaki North America**\n  - Product / Service: Automotive supplier division (mobility solutions: ADAS, powertrain, electronics)\n\n- **ZF Gainesville LLC**\n  - Product / Service: Automotive supplier footprint (electrification, thermal, powertrain, ADAS components)",
+    "Show all Vehicle Assembly entities and summarize their Primary OEMs and Employment.": "- **Company:** Kia Georgia Inc.\n  - Primary OEM: Kia\n  - Employment: 777\n\n- **Company:** Superior Essex Inc.\n  - Primary OEM: Superior Essex\n  - Employment: 8100\n\n- **Company:** Suzuki Manufacturing of America Corp.\n  - Primary OEM: Suzuki\n  - Employment: 7500\n\n- **Company:** TCI Powder Coatings\n  - Primary OEM: TCI Powder Coatings\n  - Employment: 3000\n\n- **Company:** TDK Components USA Inc.\n  - Primary OEM: TDK\n  - Employment: 1000\n\n- **Company:** TE Connectivity\n  - Primary OEM: TE Connectivity\n  - Employment: 1900\n\n- **Company:** Teklas USA\n  - Primary OEM: Teklas USA\n  - Employment: 1800\n\n- **Company:** Textron Specialized Vehicles\n  - Primary OEM: Textron\n  - Employment: 1100\n\n- **Company:** Thermal Ceramics Inc.\n  - Primary OEM: Thermal Ceramics\n  - Employment: 3000\n\n- **Company:** Thomson Plastics Inc.\n  - Primary OEM: Thomson Plastics\n  - Employment: 1000",
+    "List all companies with EV / Battery Relevant = Yes and provide their EV Supply Chain Role and Category.": "Racemark International LLC | Tier 1 | General Automotive\nF&P Georgia Manufacturing | Tier 1/2 | Battery Pack\nHonda Development & Manufacturing | Tier 1/2 | Battery Cell\nHitachi Astemo Americas Inc. | Tier 1/2 | Battery Cell\nHyundai Motor Group | Tier 1/2 | Battery Pack\nZF Gainesville LLC | OEM Footprint | EV thermal systems and electronics",
+    "Which EV Supply Chain Roles have at least one company with EV / Battery Relevant = Yes? Provide the roles and the matching companies.": "EV Supply Chain Roles with at least one company having EV / Battery Relevant = Yes:\n\n- OEM parent group footprint (EV + HD electrification): TN Americas Holding Inc.\n- OEM corporate and engineering footprint (electrification): Tie Down Engineering\n- Battery Cell: Honda Development & Manufacturing",
+    "Identify the set of Industry Groups represented among Battery Pack and Battery Cell companies.": "The set of Industry Groups represented among Battery Pack and Battery Cell companies is Tier 1/2.",
+    "For each Category (Tier 2/3, Tier 1/2, Tier 1, OEM, OEM Supply Chain, OEM (Footprint), OEM Footprint), count how many companies are in the dataset.": "- Tier 2/3: 0\n- Tier 1/2: 0\n- Tier 1: 0\n- OEM: 0\n- OEM Supply Chain: 1 (Hitachi Astemo Americas Inc.)\n- OEM (Footprint): 0\n- OEM Footprint: 0",
+    "List all companies located in Troup County and include their Category, EV Supply Chain Role, and Employment.": "Company: PPG Industries Inc.\nCategory: Tier 1\nEV Supply Chain Role: General Automotive\nEmployment: 120\n\nCompany: Stryten Energy\nCategory: Tier 1\nEV Supply Chain Role: General Automotive\nEmployment: 50\n\nCompany: Bonnell Aluminum\nCategory: Tier 2/3\nEV Supply Chain Role: General Automotive\nEmployment: 266\n\nCompany: Aurubis\nCategory: Tier 2/3\nEV Supply Chain Role: Materials\nEmployment: 400\n\nCompany: PAI Industries Inc.\nCategory: Tier 1\nEV Supply Chain Role: General Automotive\nEmployment: 198\n\nCompany: ADVICS Manufacturing Georgia LLC\nCategory: Tier 2/3\nEV Supply Chain Role: General Automotive\nEmployment: 150",
+    "Which counties have the highest number of Tier 1 suppliers? Return the county counts and the top 5 counties.": "The provided evidence does not specify which county each Tier 1 supplier is located in, so it's impossible to determine which counties have the highest number of Tier 1 suppliers or provide a count for them. The top 5 counties cannot be determined from the given information either.",
+    "Show all companies located in Gwinnett County and include their Industry Group and Product / Service.": "Company: Arising Industries Inc.\nIndustry Group: Tier 2/3\nProduct / Service: Rubber powders for tires\nLocation: Lawrenceville, Gwinnett County\n\nCompany: MAT Heavy Duty\nIndustry Group: Tier 1\nProduct / Service: Vehicle protection and interior comfort products\nLocation: Lawrenceville, Gwinnett County\n\nCompany: Continental Tire the Americas LLC\nIndustry Group: Tier 2/3\nProduct / Service: Automotive gaskets and parts, protective film applications\nLocation: Lawrenceville, Gwinnett County\n\nCompany: Morgan Corp.\nIndustry Group: Tier 1\nProduct / Service: Engine components, turbochargers, exhaust parts and other automotive parts\nLocation: Lawrenceville, Gwinnett County\n\nCompany: Grudem\nIndustry Group: Tier 2/3\nProduct / Service: Sensors for mobile hydraulic applications\nLocation: Lawrenceville, Gwinnett County\n\nCompany: Michelin Tread Technologies\nIndustry Group: Tier 1\nProduct / Service: Ventvisors, hood shields, floor mats, automotive accessories\nLocation: Lawrenceville, Gwinnett County",
+    "Identify all companies in Hall County and list their Primary Facility Type and EV / Battery Relevant status.": "There are no companies listed in Hall County based on the provided evidence.",
+    "Which cities have both Tier 1 and Tier 2/3 companies present? Provide the city names and the matching companies.": "The cities with both Tier 1 and Tier 2/3 companies present are not explicitly stated in the provided evidence. The list includes company names but does not specify their locations or city information. Therefore, based on the supported facts from the given evidence, no specific city names can be provided for those that have both tiers of companies present.",
+    "Find the counties that contain at least one Battery Pack company and list the Battery Pack companies in each county.": "Stephens County:\n- F&P Georgia Manufacturing\n\nDecatur County:\n- Hollingsworth & Vose Co.\n\nHenry County:\n- Hyundai Motor Group\n\nJackson County:\n- IMMI",
+    "Which county has the highest total Employment across all companies? Provide the county and the summed Employment.": "Coweta County has the highest total Employment across all companies with a summed Employment of 1900 (Teklas USA: 1800 and Robert Bosch LLC: 100).",
+    "Compute total Employment by EV Supply Chain Role for companies located in Fulton County.": "2000",
+    "List companies whose Location is reported as Georgia (or Georgia (facility presence)) and summarize their Category and EV Supply Chain Role.": "- **ADVICS Manufacturing Georgia LLC**: Category - Tier 2/3; EV Supply Chain Role - General Automotive.\n- **TN Americas Holding Inc.**: Category - OEM (Footprint); EV Supply Chain Role - OEM parent group footprint (EV + HD electrification).\n- **Volvo Group North America**: Category - OEM Supply Chain; EV Supply Chain Role - Stamped metal components for OEMs.\n- **Toyota Industries Group (TACG-TICA)**: Category - OEM (Footprint); EV Supply Chain Role - OEM parent group footprint (electric truck strategy).\n- **Vernay**: Category - OEM Supply Chain; EV Supply Chain Role - Stamped and welded assemblies for OEMs.\n- **TI Fluid Systems**: Category - OEM; EV Supply Chain Role - Vehicle safety systems OEM (EV + ICE).",
+    "Show the distribution of companies by County for EV / Battery Relevant = Yes only.": "Bryan County: Honda Development & Manufacturing  \nCoweta County: Hitachi Astemo Americas Inc.  \nHenry County: Hyundai Motor Group",
+    "List all companies with Primary Facility Type = Headquarters (including North American": "TN Americas Holding Inc.\nTrenton Pressing\nValeo\nTI Fluid Systems\nWabash National Corp.",
+    "Headquarters) and include their Location and Employment.": "Minebea AccessSolutions USA Inc.\n- Headquarters and distribution location\n- Location: Atlanta, Fulton County\n- Employment: 400\n\nTN Americas Holding Inc.\n- Commercial trucks (Volvo/Mack), buses, construction equipment; OEM footprint\n- Location: Georgia\n- Employment: 19600\n\nWheelabrator Group Inc.\n- Metal stamping & fabrication for automotive/industrial components\n- Location: Georgia\n- Employment: 51\n\nToyota Industries Group (TACG-TICA)\n- Commercial trucks (Freightliner/Western Star) & zero-emission truck programs; OEM footprint\n- Location: Georgia\n- Employment: 18100\n\nValeo\n- Automotive body/stamped metal assemblies (Kia/Hyundai supply chain)\n- Location: Georgia\n- Employment: 269\n\nTrenton Pressing\n- Truck OEM footprint & parts/distribution operations (PACCAR network); OEM corporate footprint and supplier integration\n- Location: Georgia\n- Employment: 350\n\nWoory Industrial Co.\n- Automotive connectors, terminals, sensors, and power/data components; High-voltage EV connectors and electronics\n- Location: Georgia\n- Employment: 87000\n\nWabash National Corp.\n- Automotive parts contract manufacturing (assemblies/components); Interior and exterior plastic parts\n- Location: Georgia\n- Employment: 20",
+    "Which companies have Primary Facility Type = R&D, and what EV Supply Chain Role are they associated with?": "Racemark International LLC has a Primary Facility Type = R&D and is associated with an EV Supply Chain Role of General Automotive.",
+    "Show all Manufacturing Plant (or Manufacturing plant) entries and group them by Industry Group.": "Manufacturing Plant Entries Grouped by Industry Group:\n\n- **Vehicle Assembly**\n  - Teklas USA (Coweta County, GA) | Employment: 1800\n\n- **OEM (Footprint)**\n  - Toyota Industries Group (TACG-TICA) (Georgia) | Employment: 18100\n  - TN Americas Holding Inc. (Georgia) | Employment: 19600\n\n- **OEM Supply Chain**\n  - Wheelabrator Group Inc. (Georgia) | Employment: 51\n  - Woory Industrial Co. (Georgia) | Employment: 87000\n  - Valeo (Georgia) | Employment: 269\n  - Wabash National Corp. (Georgia) | Employment: 20\n  - Vista Metals Corp. (Georgia) | Employment: 1500",
+    "Among companies with Primary Facility Type containing 'Corporate operations', which ones are EV / Battery Relevant = Yes?": "TN Americas Holding Inc.\nTie Down Engineering",
+    "Identify companies with Primary Facility Type containing both Engineering and Manufacturing, and list their Product / Service.": "There are no companies in the provided evidence with a Primary Facility Type containing both Engineering and Manufacturing. Therefore, there is no information to list their Product / Service based on the given criteria.",
+    "For each Primary Facility Type, compute the average Employment.": "Tier 2/3: (275 + 250 + 135 + 97 + 50 + 90) / 6 = 148.33\nTier 1: 150\nOEM: 80",
+    "Which EV Supply Chain Role has the highest average Employment among Tier 1 suppliers?": "General Automotive has the highest average Employment among Tier 1 suppliers based on the provided evidence.",
+    "List Tier 2/3 suppliers with Employment >= 500 and provide their Location and Product / Service.": "- ADVICS Manufacturing Georgia LLC: Location - Georgia, Product/Service - Automotive components\n- ALBAform Inc.: Location - Georgia, Product/Service - Not specified in evidence\n- AVS: Location - Georgia, Product/Service - Not specified in evidence\n- Adient: Location - Georgia, Product/Service - Seating solutions for vehicles\n- Ajin Georgia: Location - Georgia, Product/Service - Chemicals and materials\n- Anovion Technologies: Location - Georgia, Product/Service - Not specified in evidence\n- Apache Mills Inc.: Location - Georgia, Product/Service - Textiles\n- Aptiv: Location - Georgia, Product/Service - Advanced safety, electric mobility, and user experience technologies\n- Archer Aviation Inc.: Location - Georgia, Product/Service - Electric vertical takeoff and landing aircraft\n- Arising Industries Inc.: Location - Georgia, Product/Service - Not specified in evidence\n- Big Tex Trailer Manufacturing Inc.: Location - Georgia, Product/Service - Trailers\n- Bonnell Aluminum: Location - Georgia, Product/Service - Aluminum extrusions for automotive industry\n- Bosal Industries Georgia: Location - Georgia, Product/Service - Exhaust systems and components\n- Carcoustics USA: Location - Georgia, Product/Service - Acoustic solutions for vehicles\n- Continental Automotive: Location - Georgia, Product/Service - Advanced driver assistance systems and vehicle networking\n- Continental Tire the Americas LLC: Location - Georgia, Product/Service - Tires\n- DaeChang Seat Company: Location - Georgia, Product/Service - Seating components\n- Daesol Material Georgia, LLC: Location - Georgia, Product/Service - Not specified in evidence\n- Daimler Truck North America: Location - Georgia, Product/Service - Trucks and vans\n- DeKalb Tool & Die Inc.: Location - Georgia, Product/Service - Metal stamping dies and tooling\n- Decostar Industries: Location - Georgia, Product/Service - Not specified in evidence\n- Denkai America: Location - Georgia, Product/Service - Aluminum die casting components\n- Denso Manufacturing Georgia: Location - Georgia, Product/Service - Automotive parts and systems\n- Die-Tech Industries Inc.: Location - Georgia, Product/Service - Metal stamping dies and tooling\n- Dinex Emissions Inc.: Location - Georgia, Product/Service - Exhaust emissions control systems\n- Dongwon Autopart Technology Georgia LLC: Location - Georgia, Product/Service - Automotive parts\n- Dorsett Industries Inc.: Location - Georgia, Product/Service - Not specified in evidence\n- Down 2 Earth Trailers: Location - Georgia, Product/Service - Trailers\n- Duckyang: Location - Georgia, Product/Service - Not specified in evidence\n- Eaton Corp.: Location - Georgia, Product/Service - Electrical systems and components\n- Ecoplastic America Corporation: Location - Georgia, Product/Service - Plastic recycling and processing\n- Ecoplastic Corporation: Location - Georgia, Product/Service - Plastic recycling and processing\n- Elan Technology Inc.: Location - Georgia, Product/Service - Not specified in evidence\n- Enchem America Inc.: Location - Georgia, Product/Service - Chemicals and materials\n- Enplas USA Inc.: Location - Georgia, Product/Service - Lighting components\n- Erdrich USA Inc.: Location - Georgia, Product/Service - Not specified in evidence\n- FOX Factory: Location - Georgia, Product/Service - Suspension products for vehicles\n- FREYR Battery: Location - Georgia, Product/Service - Lithium-ion batteries\n- Flambeau Inc.: Location - Georgia, Product/Service - Plastic and metal containers\n- Freudenberg-NOK: Location - Georgia, Product/Service - Sealing and vibration control technologies\n- GEDIA Georgia LLC: Location - Georgia, Product/Service - Body shop equipment and tools\n- GLOVIS Georgia LLC: Location - Georgia, Product/Service - Logistics services for automotive industry\n- Global Powertrain Systems LLC: Location - Georgia, Product/Service - Powertrain systems\n- Goodyear Tire & Rubber Co.: Location - Georgia, Product/Service - Tires\n- Great Dane LP: Location - Georgia, Product/Service - Trailers and truck bodies\n- Great Dane Trailers: Location - Georgia, Product/Service - Trailers\n- Grudem: Location - Georgia, Product/Service - Not specified in evidence\n- HELLA Automotive Sales Inc.: Location - Georgia, Product/Service - Lighting systems for vehicles\n- HEXPOL Compounding Corp.: Location - Georgia, Product/Service - Thermoplastic compounds and elastomers\n- Ascend Elements: Location - Georgia, Product/Service - Lithium-ion battery materials\n- Aspen Aerogels: Location - Georgia, Product/Service - Insulation products\n- Aurubis: Location - Georgia, Product/Service - Copper and copper alloy semi-finished products\n- Beaver Manufacturing Co. Inc.: Location - Georgia, Product/Service - Not specified in evidence\n- Blue Bird Corp.: Location - Georgia, Product/Service - School buses\n- Blue Ridge Manufacturing: Location - Georgia, Product/Service - Metal stamping dies and tooling\n- Boogook Industries: Location - Georgia, Product/Service - Not specified in evidence\n- Bosch (Automotive Division): Location - Georgia, Product/Service - Automotive components and systems\n- Bridgestone Bandag: Location - Georgia, Product/Service - Tires and retreads\n- Club Car LLC: Location - Georgia, Product/Service - Golf cars and utility vehicles\n- Constellium Automotive USA: Location - Georgia, Product/Service - Aluminum automotive sheet and extrusions\n- DAEHAN Solution Georgia LLC: Location - Georgia, Product/Service - Not specified in evidence\n- DAS Corp.: Location - Georgia",
+    "Find Tier 1/2 companies with EV / Battery Relevant = Yes and show their Primary OEMs.": "- Hitachi Astemo Americas Inc.\n- F&P Georgia Manufacturing\n- Hollingsworth & Vose Co.\n- Hyundai Motor Group\n- IMMI\n- Morgan Corp.\n- Fouts Brothers Fire Equipment\n- Hitachi Astemo\n- Hwashin\n- Hyundai Industrial Co.\n- Hyundai MOBIS (Georgia)\n- Hyundai Transys Georgia Seating Systems\n- IMS Gear Georgia Inc.\n- Inalfa Roof Systems Inc.\n- JAC Products Inc.\n- JTEKT North America Corp.\n- Jefferson Southern Corp.\n- Jefferson Southern Corporation\n- Joon Georgia, Inc.\n- KTX America Corporation\n- Kautex Inc.\n- Kumho Tire USA Inc.\n- Kyungshin America Corp.\n- Lark United Manufacturing Inc.\n- Lear Corporation\n- Lehigh Technologies Inc.\n- Linde + Wiemann\n- Lund International Inc.\n- Lund International Inc./Ventshade Division\n- Lyle Industries Inc.\n- MAT Heavy Duty\n- Mack Trucks\n- Magna International\n- Mando America Corp.\n- Master Craft Engineering Inc.\n- Maxxis International USA\n- Mercedes-Benz USA LLC\n- Michelin Tread Technologies\n- Milliken & Co./Valway Plant\n- Minebea AccessSolutions USA Inc.\n- Mobis Alabama LLC\n- MollerTech LLC\n- Murata Electronics North America Inc.\n- NIFCO KTW America Corp.\n- NVH Korea\n- Neaton Rome Inc.\n- Nidec Elesys Americas Corp.\n- Nile Automotive\n- Nisshinbo Automotive Manufacturing Inc.\n- Nivel Parts & Manufacturing Co. LLC\n- Novelis Inc.\n- OTR Wheel Engineering Inc.\n- Oneda Corp.\n- PAI Industries Inc.\n- PIOLAX Corp.\n- PPG Industries Inc.\n- Paccar\n- Pak-Lite Inc.\n- Panasonic Automotive Systems Co.\n- Panduit Corp.\n- Perkins Small Engines LLC\n- Peterson Spring\n- Piedmont Automotive Products Inc.\n- Pirelli Tire North America LLC\n- Porsche Cars North America Inc.\n- Propex Operating Co. LLC\n- QSR Inc.\n- Racemark International LLC\n- RealTruck\n- Rivian Automotive\n- Robert Bosch LLC\n- SAFT America Inc.\n- SHIROKI North America Inc\n- SKF USA Inc.\n- SRG Global Inc.\n- Sejong Georgia LLC\n- Seohan Auto USA\n- Seoyon E-HWA\n- Seoyon E-Hwa Interior Systems\n- Sewon America Inc.\n- Solvay Specialty Polymers USA LLC\n- Southern Switches Corp.\n- Stryten Energy\n- Suhner Manufacturing Corp.\n- PHA Body Systems LLC\n- SK Battery America\n- Sumitomo Electric Wiring Systems\n- Hyundai Transys Georgia Powertrain\n- Kia Georgia Inc.\n- Superior Essex Inc.\n- Suzuki Manufacturing of America Corp.\n- TCI Powder Coatings\n- TDK Components USA Inc.\n- TE Connectivity\n- Teklas USA\n- Textron Specialized Vehicles\n- Thermal Ceramics Inc.\n- Thomson Plastics Inc.",
+    "Among Materials companies, which ones are EV / Battery Relevant = Yes versus Indirect? Provide counts and company lists.": "EV / Battery Relevant = Yes: \n- Ascend Elements\n- Hollingsworth & Vose Co.\n- SK Battery America\n\nEV / Battery Indirect:\n- Aspen Aerogels\n- Aurubis\n- Beaver Manufacturing Co. Inc.\n- Blue Bird Corp.\n- Blue Ridge Manufacturing\n- Boogook Industries\n- Bosch (Automotive Division)\n- Bridgestone Bandag\n- Club Car LLC\n- Constellium Automotive USA\n- DAEHAN Solution Georgia LLC\n- DAS Corp.\n- Daesol Ausys\n- EVCO Plastics\n- Fanello Industries Inc.\n- First American Resources\n- Haering Precision USA LP\n- PHA Body Systems LLC\n- Panasonic Automotive Systems Co.\n- SungEel Recycling Park Georgia\n\nCounts:\n- EV / Battery Relevant = Yes: 3 companies\n- EV / Battery Indirect: 17 companies",
+    "Which Industry Group has the largest number of companies in the dataset, and what are the top 3 Industry Groups by count?": "The provided evidence does not specify the Industry Group for any of the companies listed, so it is impossible to determine which Industry Group has the largest number of companies or the top 3 by count based on the given information.",
+    "Within the Industry Group 'Electronic and Other Electrical Equipment and Components', list the companies and their EV Supply Chain Role.": "Yamaha Motor Manufacturing Corp.: Advanced electrical architecture for EVs\nWoory Industrial Co.: High-voltage EV connectors and electronics\nVista Metals Corp.: EV and ICE component manufacturing\nHyundai MOBIS (Georgia): General Automotive\nTie Down Engineering: OEM corporate and engineering footprint (electrification)\nToyota Industries Group (TACG-TICA): OEM parent group footprint (electric truck strategy)\nTN Americas Holding Inc.: OEM parent group footprint (EV + HD electrification)",
+    "Within 'Rubber and Miscellaneous Plastic Products', which companies are EV / Battery Relevant = Yes?": "Within 'Rubber and Miscellaneous Plastic Products', the companies that are EV / Battery Relevant = Yes are:\n- Racemark International LLC\n- Thomson Plastics Inc.\n- Thermal Ceramics Inc.",
+    "Show all companies whose EV Supply Chain Role is General Automotive but EV / Battery Relevant = Yes, and include Product / Service.": "- FREYR Battery: EV / Battery Relevant = Yes, Product / Service: Lithium-ion batteries and battery systems for electric vehicles (EVs)\n- Hyundai & LG Energy Solution (LGES): EV / Battery Relevant = Yes, Product / Service: Production of lithium-ion batteries for electric vehicles\n- Novelis Inc.: EV / Battery Relevant = Yes, Product / Service: Aluminum sheet products used in the production of EV battery packs and bodies\n- Panasonic Automotive Systems Co.: EV / Battery Relevant = Yes, Product / Service: Development and manufacturing of automotive electronics including battery management systems\n- SAFT America Inc.: EV / Battery Relevant = Yes, Product / Service: Production of lithium-ion batteries for electric vehicles\n- Solvay Specialty Polymers USA LLC: EV / Battery Relevant = Yes, Product / Service: High-performance polymers used in the production of EV battery components and other automotive applications",
+    "Which companies are in the Charging Infrastructure role, and what is their Category and Location?": "Morgan Corp. is in the Charging Infrastructure role, with a Category of Tier 1 and located in Lawrenceville, Gwinnett County.",
+    "List all companies linked to Hyundai Kia and include their Category, EV Supply Chain Role, and Location.": "Racemark International LLC | Tier 1 | General Automotive | Calhoun, Gordon County\nHyundai Motor Group | Tier 1/2 | Battery Pack | McDonough, Henry County\nHonda Development & Manufacturing | Tier 1/2 | Battery Cell | Pembroke, Bryan County\nF&P Georgia Manufacturing | Tier 1/2 | Battery Pack | Toccoa, Stephens County\nHitachi Astemo Americas Inc. | Tier 1/2 | Battery Cell | Coweta County\nDuckyang | Tier 2/3 | General Automotive | Augusta, Richmond County",
+    "Which companies are linked to Hyundai Motor Group, and what Products / Services do they provide?": "Hyundai Motor Group provides battery parts for electric vehicles. The company is categorized as Tier 1/2 and its role in the EV supply chain is Battery Pack. It is located in McDonough, Henry County, and employs 164 people.",
+    "Identify suppliers linked to Rivian Automotive and show their Employment and Location.": "Supplier linked to Rivian Automotive:\n- Company: Rivian Automotive\n- Category: Tier 1\n- Employment: 105\n- Location: Gainesville, Hall County",
+    "List all entries where Primary OEMs = Multiple OEMs and compute the median Employment for those entries.": "There are no entries where Primary OEMs = Multiple OEMs in the provided evidence. Therefore, there is insufficient data to compute the median Employment for those entries.",
+    "Which companies are linked to Mercedes-Benz USA LLC and what EV / Battery Relevant status do they have?": "Mercedes-Benz USA LLC is linked to itself in the provided evidence and has an EV / Battery Relevant status of Indirect.",
+    "Find the company (or companies) linked to SK Battery America and provide its EV Supply Chain Role and Location.": "Company: SK Battery America  \nEV Supply Chain Role: Materials  \nLocation: Hartwell, Hart County",
+    "List all companies linked to Club Car LLC and include their EV Supply Chain Role and Product / Service.": "Club Car LLC is linked to itself with the following details:\n- EV Supply Chain Role: Materials\n- Product / Service: Injection molded plastic automotive parts",
+    "Which companies are linked to Blue Bird or Blue Bird Corp., and what is their Primary Facility Type?": "Blue Bird Corp. is linked to Blue Bird or Blue Bird Corp., and its Primary Facility Type is not specified in the provided evidence.",
+    "Show all companies linked to Yamaha Motor Manufacturing Corp. and include Category, Location, and Employment.": "Company: Yamaha Motor Manufacturing Corp.\nCategory: OEM Supply Chain\nLocation: Georgia\nEmployment: 190000",
+    "For each Primary OEM listed (excluding blanks), count how many companies are associated with it.": "12 companies are associated with the Primary OEM category according to the provided evidence.",
+    "Which Primary OEM has the highest total Employment across its associated companies (excluding blanks)?": "Superior Essex Inc. has the highest total employment of 8100 among Primary OEMs.",
+    "Identify any companies that supply to more than one OEM based on the Primary OEMs field (e.g., entries like 'Hyundai Kia Rivian') and list them.": "There is no information in the provided evidence that identifies any companies supplying to more than one OEM based on entries like 'Hyundai Kia Rivian' in the Primary OEMs field. The given data does not contain such details about company relationships with multiple OEMs.",
+    "Among companies linked to 'Hyundai Kia Rivian', list their EV Supply Chain Role and Product / Service.": "Racemark International LLC:\n- EV Supply Chain Role: General Automotive\n- Product / Service: Manufacturing and R&D engine parts for EV\n\nDuckyang:\n- EV Supply Chain Role: General Automotive\n- Product / Service: High-quality electrodeposited (ED) copper foil for electric vehicles\n\nHyundai Motor Group:\n- EV Supply Chain Role: Battery Pack\n- Product / Service: Battery parts for electric vehicles\n\nHyundai Transys Georgia Powertrain:\n- EV Supply Chain Role: Thermal Management\n- Product / Service: Electrical heaters, control units, and actuators",
+    "Find all companies linked to Porsche Cars North America Inc. and provide their Location and Employment.": "Porsche Cars North America Inc.\n- Location: Cairo, Grady County\n- Employment: 125",
+    "Which OEM-linked entries are missing Supplier or Affiliation Type, and what are their Categories?": "- Company: Minebea AccessSolutions USA Inc.\n- Company: TDK Components USA Inc.\n- Company: TE Connectivity\n- Company: Teklas USA\n- Company: Textron Specialized Vehicles\n- Company: Thermal Ceramics Inc.\n- Company: Thomson Plastics Inc.\n- Company: TI Fluid Systems\n\nCategories:\nOEM",
+    "Which 10 companies have the highest Employment, and what are their Categories and Locations?": "1. Woory Industrial Co.\n   - Category: OEM Supply Chain\n   - Location: Georgia\n   - Employment: 87000\n\n2. Bosch (Automotive Division)\n   - Category: Tier 2/3\n   - Location: Thomson, McDuffie County\n   - Employment: 250\n\n3. Vernay\n   - Category: OEM Supply Chain\n   - Location: Georgia\n   - Employment: 1600\n\n4. Valeo\n   - Category: OEM Supply Chain\n   - Location: Georgia\n   - Employment: 269\n\n5. Trenton Pressing\n   - Category: OEM (Footprint)\n   - Location: Georgia\n   - Employment: 350\n\nThe evidence provided does not include enough companies with employment data to list the top 10. Only five companies have specific employment numbers given, and Woory Industrial Co. has significantly higher employment than others listed.",
+    "Which 10 companies have the lowest Employment, and what are their EV Supply Chain Roles?": "The companies with the lowest Employment and their corresponding EV Supply Chain Roles are:\n\n1. DeKalb Tool & Die Inc.: General Automotive\n2. First American Resources: Materials\n3. Ecoplastic Corporation: General Automotive\n4. Bosch (Automotive Division): Materials\n5. GLOVIS Georgia LLC: General Automotive\n\nEmployment numbers for these companies are 70, 60, 160, 250, and 90 respectively.",
+    "Among EV / Battery Relevant = Yes companies, which company has the highest Employment and what is its Product / Service?": "Among companies with EV / Battery Relevant = Yes, Superior Essex Inc. has the highest Employment of 8100. Its Product / Service is electric vehicles and batteries.",
+    "Compare total Employment between EV / Battery Relevant groups (Yes vs Indirect vs No).": "Total Employment for each EV/Battery Relevant group:\n- Yes: 19600 + 400 + 2000 = 22000\n- Indirect: 182 + 110 + 100 + 582 + 200 = 1174\n- No: Not applicable (no companies listed as \"No\" in the provided evidence)",
+    "For each EV Supply Chain Role, calculate total Employment and identify the top 3 roles by total Employment.": "Materials: 270 + 275 + 97 = 642\nGeneral Automotive: 180 + 160 + 135 + 50 = 525\n\nTop 3 EV Supply Chain Roles by total Employment:\n1. Materials: 642\n2. General Automotive: 525",
+    "Within Tier 1 suppliers, what is the Employment range (min and max) and which companies correspond to those extremes?": "The provided evidence does not specify employment numbers for any of the Tier 1 suppliers listed, so it is not possible to determine the Employment range (min and max) or which companies correspond to those extremes based on the given information.",
+    "Within Tier 2/3 suppliers, what is the average Employment by Industry Group?": "The provided evidence does not contain specific employment numbers for each Tier 2/3 supplier, so it is not possible to calculate an average Employment by Industry Group based on the given information.",
+    "Which counties have the highest total Employment among Tier 1 suppliers only?": "The counties with the highest total Employment among Tier 1 suppliers cannot be determined from the provided evidence as county information is not given.",
+    "In Gwinnett County, which company has the highest Employment and what is its EV Supply Chain Role?": "Company: Grudem\nEmployment: 807\nEV Supply Chain Role: General Automotive",
+    "Among companies with Primary Facility Type = R&D, which one has the highest Employment and what is its Location?": "Among companies with Primary Facility Type = R&D, Racemark International LLC has the highest Employment of 120 and its Location is Calhoun, Gordon County.",
+    "List all companies with Employment between 200 and 500 (inclusive) that are EV / Battery Relevant = Yes.": "Company: Honda Development & Manufacturing | Category: Tier 1/2 | EV Supply Chain Role: Battery Cell | Primary OEMs: Hyundai Kia | Product / Service: Battery cells for electric mobility | Location: Pembroke, Bryan County | Employment: 400 | EV / Battery Relevant: Yes\n\nCompany: Hitachi Astemo Americas Inc. | Category: Tier 1/2 | EV Supply Chain Role: Battery Cell | Primary OEMs: Hyundai Kia | Product / Service: Battery cells for electric mobility | Location: Coweta County | Employment: 723 | EV / Battery Relevant: Yes",
+    "Which Industry Group has the highest total Employment across all companies?": "The Industry Group with the highest total Employment across all companies is Tier 2/3, with a total employment of 1574 (calculated from Blue Bird Corp., Bosch (Automotive Division), DaeChang Seat Company, Daesol Ausys, Denkai America, and Grudem).",
+    "For each Category, compute the average Employment and identify which Category has the highest average.": "For Category Tier 2/3:\n- Average Employment: (180 + 310 + 275 + 250 + 135 + 97 + 50 + 90) / 8 = 164\n\nNo other categories are present in the evidence. Therefore, Category Tier 2/3 has the highest average Employment of 164.",
+    "Identify companies with Employment >= 10,000 and list their Category and Classification": "Company: Toyota Industries Group (TACG-TICA)\nCategory: OEM (Footprint)\nClassification: Tier 1 automotive components (implied from context)\n\nNo other companies meet the criteria of Employment >= 10,000 based on provided evidence.",
+    "Method.": "The method involves ranking companies based on their identity and theme within the context of their role in the electric vehicle (EV) supply chain. The provided workbook lists eight companies, each with specific details such as category, EV supply chain role, primary OEMs, product/service, location, employment, and relevance to EV/battery technology.\n\n1. **ALBAform Inc.**\n   - Category: Tier 2/3\n   - EV Supply Chain Role: General Automotive\n   - Primary OEMs: Multiple OEMs\n   - Product / Service: Floor mats, trunk mats, seat covers and seat vests\n   - Location: Calhoun, Gordon County\n   - Employment: 130\n   - EV / Battery Relevant: No\n\n2. **Ajin Georgia**\n   - Category: Tier 2/3\n   - EV Supply Chain Role: General Automotive\n   - Primary OEMs: Multiple OEMs\n   - Product / Service: Automobile floor coverings\n   - Location: Dalton, Whitfield County\n   - Employment: 143\n   - EV / Battery Relevant: No\n\n3. **Adient**\n   - Category: Tier 2/3\n   - EV Supply Chain Role: General Automotive\n   - Primary OEMs: Multiple OEMs\n   - Product / Service: Backing for automotive carpets and other auto related applications\n   - Location: Ringgold, Catoosa County\n   - Employment: 180\n   - EV / Battery Relevant: Indirect\n\n4. **DAS Corp.**\n   - Category: Tier 2/3\n   - EV Supply Chain Role: Materials\n   - Primary OEMs: Multiple OEMs\n   - Product / Service: Automotive plastic coatings\n   - Location: Gainesville, Hall County\n   - Employment: 85\n   - EV / Battery Relevant: Indirect\n\n5. **DAEHAN Solution Georgia LLC**\n   - Category: Tier 2/3\n   - EV Supply Chain Role: Materials\n   - Primary OEMs: Multiple OEMs\n   - Product / Service: Chemically treated industrial yarns Rubber compounds for tires, mining conveyor belts, automotive floor mats, and windshield wiper blades\n   - Location: Covington, Newton County\n   - Employment: 130\n   - EV / Battery Relevant: Indirect\n\n6. **DeKalb Tool & Die Inc.**\n   - Category: Tier 2/3\n   - EV Supply Chain Role: General Automotive\n   - Primary OEMs: Multiple OEMs\n   - Product / Service: Truck interior cab components and exterior lights to HVAC and under the hood engine parts\n   - Location: Calhoun, Gordon County\n   - Employment: 70\n   - EV / Battery Relevant: No\n\n7. **Apache Mills Inc.**\n   - Category: Tier 2/3\n   - EV Supply Chain Role: General Automotive\n   - Primary OEMs: Multiple OEMs\n   - Product / Service: Engine filtration papers\n   - Location: Hawkinsville, Pulaski County\n   - Employment: 140\n   - EV / Battery Relevant: No\n\n8. **Denkai America**\n   - Category: Tier 2/3\n   - EV Supply Chain Role: General Automotive\n   - Primary OEMs: Multiple OEMs\n   - Product / Service: Custom injection molded components for the automotive industry\n   - Location: Cumming, Forsyth County\n   - Employment: 50\n   - EV / Battery Relevant: Indirect",
+    "Among OEM categories (OEM, OEM Supply Chain, OEM Footprint, OEM (Footprint)), which has the highest total Employment?": "The category with the highest total Employment among the provided categories is \"Vehicle Assembly\" based on the presence of multiple companies listed under it, although exact employment numbers are not provided in the evidence.",
+    "Which EV Supply Chain Role is most concentrated in a single county (i.e., the role where one county contains the largest share of that role's companies)?": "The most concentrated EV Supply Chain Role in a single county is \"Materials,\" which is represented by First American Resources located in Albany, Dougherty County. This role has only one company listed in the provided evidence.",
+    "Identify EV Supply Chain Roles that have only one company in the dataset, and list the company for each such role.": "EV Supply Chain Role: General Automotive - Companies: Lear Corporation, DaeChang Seat Company, Denkai America, Peterson Spring, GLOVIS Georgia LLC\nEV Supply Chain Role: Materials - Companies: Blue Bird Corp., Bosch (Automotive Division), Daesol Ausys\n\nSince all roles have more than one company listed in the evidence provided, there are no EV Supply Chain Roles that have only one company.",
+    "Which counties have the fewest companies overall (excluding rows with Location = Georgia)? Provide the bottom 5 counties by company count.": "Coweta County, Troup County",
+    "For Tier 1 suppliers, identify any counties that have only one Tier 1 supplier and name that supplier.": "Charging Infrastructure: Morgan Corp. (Fulton County)\n\nGeneral Automotive: \n- Jefferson Southern Corporation (Paulding County)\n- Joon Georgia, Inc. (DeKalb County)",
+    "Identify any companies that appear multiple times in the dataset, and for each, list the distinct EV Supply Chain Roles recorded.": "No companies appear multiple times in the dataset.",
+    "For the company 'ZF Gainesville LLC', list all rows and compare their Categories, EV Supply Chain Roles, and Locations.": "- Company: ZF Gainesville LLC | Category: OEM Supply Chain | EV Supply Chain Role: EV body, powertrain, and thermal components | Location: Georgia\n- Company: ZF Gainesville LLC | Category: OEM Supply Chain | EV Supply Chain Role: EV thermal management and power electronics | Location: Georgia\n- Company: ZF Gainesville LLC | Category: OEM Footprint | EV Supply Chain Role: EV thermal systems and electronics | Location: Georgia",
+    "For the company 'Novelis Inc.', list the different Locations and Primary Facility Types recorded.": "Locations:\n- Gainesville, Hall County\n- Trenton, Dade County\n- Lawrenceville, Gwinnett County\n\nPrimary Facility Types:\n- General Automotive\n- Thermal Management",
+    "For the company 'Sewon America Inc.', list each recorded Product / Service and the associated Location.": "- Product / Service: Automotive aftermarket parts | Location: Atlanta, Fulton County\n- Product / Service: Motor vehicle engines and parts | Location: Athens, Clarke County\n- Product / Service: Fire truck bodies | Location: Marietta, Cobb County",
+    "Which Industry Groups have both Tier 1 and Tier 2/3 suppliers present? Provide the Industry Group names.": "General Automotive",
+    "Within Materials companies, which county has the highest number of Materials entries, and what are the companies?": "The county with the highest number of Materials entries is not specified in the provided evidence. The companies listed under the Materials category are:\n\n- Ascend Elements\n- Aspen Aerogels\n- Aurubis\n- Beaver Manufacturing Co. Inc.\n- Blue Bird Corp.\n- Blue Ridge Manufacturing\n- Boogook Industries\n- Bosch (Automotive Division)\n- Bridgestone Bandag\n- Club Car LLC\n- Constellium Automotive USA\n- DAEHAN Solution Georgia LLC\n- DAS Corp.\n- Daesol Ausys\n- EVCO Plastics\n- Fanello Industries Inc.\n- First American Resources\n- Haering Precision USA LP\n- PHA Body Systems LLC\n- Panasonic Automotive Systems Co.\n- SK Battery America\n- Sumitomo Electric Wiring Systems\n- SungEel Recycling Park Georgia",
+    "Which counties have Battery Pack or Battery Cell activity, and how many companies are in each of those roles per county?": "Stephens County has 1 company involved in Battery Pack activity.\nCoweta County has 1 company involved in Battery Cell activity.\nDecatur County has 1 company involved in Battery Pack activity.\nBryan County has 1 company involved in Battery Cell activity.\nHenry County has 1 company involved in Battery Pack activity.\nJackson County has 1 company involved in Battery Pack activity.",
+    "Identify companies marked as EV / Battery Relevant = No but still categorized as Tier 1 or Tier 1/2; list them with their Product / Service.": "Fouts Brothers Fire Equipment (General Automotive)\nHitachi Astemo (General Automotive)\nHwashin (General Automotive)\nHyundai & LG Energy Solution (LGES) (General Automotive)\nHyundai Industrial Co. (General Automotive)\nHyundai MOBIS (Georgia) (General Automotive)\nHyundai Transys Georgia Seating Systems (General Automotive)\nIMS Gear Georgia Inc. (General Automotive)\nInalfa Roof Systems Inc. (General Automotive)\nJAC Products Inc. (General Automotive)\nJTEKT North America Corp. (General Automotive)\nJefferson Southern Corp. (General Automotive)\nJefferson Southern Corporation (General Automotive)\nJoon Georgia, Inc. (General Automotive)\nKTX America Corporation (General Automotive)\nKautex Inc. (General Automotive)\nKumho Tire USA Inc. (General Automotive)\nKyungshin America Corp. (General Automotive)\nLark United Manufacturing Inc. (General Automotive)\nLear Corporation (General Automotive)\nLehigh Technologies Inc. (General Automotive)\nLinde + Wiemann (General Automotive)\nLund International Inc. (General Automotive)\nLund International Inc./Ventshade Division (General Automotive)\nLyle Industries Inc. (General Automotive)\nMAT Heavy Duty (General Automotive)\nMack Trucks (General Automotive)\nMagna International (General Automotive)\nMando America Corp. (General Automotive)\nMaster Craft Engineering Inc. (General Automotive)\nMaxxis International USA (General Automotive)\nMercedes-Benz USA LLC (General Automotive)\nMichelin Tread Technologies (General Automotive)\nMilliken & Co./Valway Plant (General Automotive)\nMobis Alabama LLC (General Automotive)\nMollerTech LLC (General Automotive)\nMurata Electronics North America Inc. (General Automotive)\nNIFCO KTW America Corp. (General Automotive)\nNVH Korea (General Automotive)\nNeaton Rome Inc. (General Automotive)\nNidec Elesys Americas Corp. (General Automotive)\nNile Automotive (General Automotive)\nNisshinbo Automotive Manufacturing Inc. (General Automotive)\nNivel Parts & Manufacturing Co. LLC (General Automotive)\nNovelis Inc. (General Automotive)\nOTR Wheel Engineering Inc. (General Automotive)\nOneda Corp. (General Automotive)\nPAI Industries Inc. (General Automotive)\nPIOLAX Corp. (General Automotive)\nPPG Industries Inc. (General Automotive)\nPaccar (General Automotive)\nPak-Lite Inc. (General Automotive)\nPanasonic Automotive Systems Co. (General Automotive)\nPanduit Corp. (General Automotive)\nPerkins Small Engines LLC (General Automotive)\nPeterson Spring (General Automotive)\nPiedmont Automotive Products Inc. (General Automotive)\nPirelli Tire North America LLC (General Automotive)\nPorsche Cars North America Inc. (General Automotive)\nPropex Operating Co. LLC (General Automotive)\nQSR Inc. (General Automotive)\nRacemark International LLC (General Automotive)\nRealTruck (General Automotive)\nRivian Automotive (General Automotive)\nRobert Bosch LLC (General Automotive)\nSAFT America Inc. (General Automotive)\nSHIROKI North America Inc (General Automotive)\nSKF USA Inc. (General Automotive)\nSRG Global Inc. (General Automotive)\nSejong Georgia LLC (General Automotive)\nSeohan Auto USA (General Automotive)\nSeoyon E-HWA (General Automotive)\nSeoyon E-Hwa Interior Systems (General Automotive)\nSewon America Inc. (General Automotive)\nSolvay Specialty Polymers USA LLC (General Automotive)\nSouthern Switches Corp. (General Automotive)\nStryten Energy (General Automotive)\nSuhner Manufacturing Corp. (General Automotive)",
+    "Which Supplier or Affiliation Type categories exist in the dataset, and how many companies fall under each?": "Supplier or Affiliation Type categories in the dataset and the number of companies under each are:\n\n- Tier 1: 3 (Lear Corporation, Oneda Corp., Morgan Corp.)\n- Tier 2/3: 4 (DeKalb Tool & Die Inc., Bosch (Automotive Division), Apache Mills Inc., Arising Industries Inc.)",
+    "Among entries with Supplier or Affiliation Type = Original Equipment Manufacturer, what EV Supply Chain Roles are represented?": "The entries with Supplier or Affiliation Type = Original Equipment Manufacturer are not directly listed in the provided evidence. Therefore, based on the supported facts, no specific EV Supply Chain Roles can be represented among such entries.",
+    "Which companies have missing Primary OEMs, and what EV Supply Chain Role do they have?": "All companies listed have an EV Supply Chain Role specified and do not have missing Primary OEMs according to the provided evidence. Therefore, there are no companies with missing Primary OEMs in the given data.",
+    "List all companies whose Product / Service text mentions 'lithium' and include their EV Supply Chain Role and Location.": "Company: F&P Georgia Manufacturing | EV Supply Chain Role: Battery Pack | Location: Toccoa, Stephens County\nCompany: Down 2 Earth Trailers | EV Supply Chain Role: General Automotive | Location: Cartersville, Bartow County",
+    "Which companies are described as a recycler in Product / Service, and what are their Categories?": "Companies described as a recycler in Product / Service are:\n- EVCO Plastics (Category: Tier 2/3)\n- F&P Georgia Manufacturing (Category: Tier 1/2)\n- Enplas USA Inc. (Category: Tier 2/3)",
+    "Find companies whose Product / Service mentions 'wiring harness' or 'wire harness' and provide their Primary OEMs.": "None of the companies listed mention 'wiring harness' or 'wire harness' in their Product / Service description.",
+    "Which companies mention 'connectors' in Product / Service, and what is their EV / Battery Relevant status?": "Woory Industrial Co.: Automotive connectors, terminals, sensors, and power/data components | EV / Battery Relevant: Yes  \nWIKA USA: Vehicle power & data solutions; wiring harnesses and connectors | EV / Battery Relevant: Yes  \nWoodbridge Foam Corp.: Automotive wiring harnesses & electrical distribution systems | EV / Battery Relevant: Yes",
+    "Identify companies whose Product / Service mentions 'thermal' and list their EV Supply Chain Role and Primary Facility Type.": "ZF Gainesville LLC:\n- EV Supply Chain Role: EV thermal management and power electronics\n- Primary Facility Type: Not specified\n\nFreudenberg-NOK:\n- EV Supply Chain Role: Thermal Management\n- Primary Facility Type: Not specified",
+    "List companies whose Product / Service mentions 'powder coatings' and include their Category and Location.": "Company: Archer Aviation Inc.\nCategory: Tier 2/3\nLocation: Ellaville, Schley County\n\nCompany: TCI Powder Coatings\nCategory: OEM\nLocation: Troup County",
+    "Which companies mention 'sensors' in Product / Service, and what EV Supply Chain Role are they assigned?": "Woory Industrial Co.: Sensors, High-voltage EV connectors and electronics  \nYKK USA Inc.: EV sensors, braking, and control systems  \nYazaki North America: Power electronics, sensors, and EV systems",
+    "For each Classification Method, count the number of companies and list the top 5 companies by Employment within each method.": "Classification Method: Identity Theme and Row Full (combined as there is no distinction provided)\n\n- Number of Companies: 8\n- Top 5 Companies by Employment:\n  1. Blue Bird Corp. | Employment: 275\n  2. Bosch (Automotive Division) | Employment: 250\n  3. Adient | Employment: 180\n  4. DaeChang Seat Company | Employment: 135\n  5. GLOVIS Georgia LLC | Employment: 90",
+    "Identify entries classified as 'Public OEM footprint / supplier listing' and summarize their Categories and EV / Battery Relevant status.": "Entries classified as 'Public OEM footprint / supplier listing' and their corresponding Categories and EV / Battery Relevant status are:\n\n1. YKK USA Inc. - Category: EV sensors, braking, and control systems\n2. ZF Gainesville LLC - Category: EV thermal systems and electronics\n3. Minebea AccessSolutions USA Inc. - Category: General Automotive\n4. Tie Down Engineering - Category: OEM corporate and engineering footprint (electrification)\n5. Trenton Pressing - Category: OEM corporate footprint and supplier integration\n6. TI Fluid Systems - Categories: Vehicle safety systems OEM (EV + ICE), OEM corporate footprint influencing EV strategy, Power electronics, sensors, and EV systems\n7. TN Americas Holding Inc. - Category: OEM parent group footprint (EV + HD electrification)\n8. Toyota Industries Group (TACG-TICA) - Category: OEM parent group footprint (electric truck strategy)\n9. Yazaki North America - Category: Power electronics, sensors, and EV systems\n\nVehicle Assembly companies are not specifically categorized under 'Public OEM footprint / supplier listing' in the provided evidence.",
+    "Which companies are classified as Direct Manufacturer, and what EV Supply Chain Roles do they cover?": "The companies classified as Direct Manufacturer in the provided evidence are Woory Industrial Co., Vista Metals Corp., Tie Down Engineering, Yamaha Motor Manufacturing Corp., and ZF Gainesville LLC. Their respective EV Supply Chain Roles are:\n\n- Woory Industrial Co.: High-voltage EV connectors and electronics\n- Vista Metals Corp.: EV and ICE component manufacturing\n- Tie Down Engineering: OEM corporate and engineering footprint (electrification)\n- Yamaha Motor Manufacturing Corp.: Advanced electrical architecture for EVs\n- ZF Gainesville LLC: EV body, powertrain, and thermal components",
+    "Among companies classified as Supplier, which EV Supply Chain Role appears most frequently?": "General Automotive appears most frequently among companies classified as Supplier in the given evidence.",
+    "Find any companies where Category indicates an OEM-related class (starts with 'OEM') but Supplier or Affiliation Type is not filled; list those companies.": "- Company: TCI Powder Coatings | Category: OEM | EV Supply Chain Role: Vehicle Assembly | Product / Service: Automotive assembly plant | Location: Troup County | Employment: 3000",
+    "According to the Methodology sheet, what is the minimum employment threshold used to include companies in this dataset?": "The minimum employment threshold used to include companies in this dataset is supported by the company with the lowest number of employees listed, which is DeKalb Tool & Die Inc., employing 70 people. Therefore, the minimum employment threshold is 70 employees.",
+    "According to the Definitions sheet, how is the Location field formatted and how are City values standardized?": "The Location field is formatted as City, County. If no city is specified but a county is provided, it implies that the standardized geographic point used is the county seat of that county.",
+    "According to the Definitions sheet, what controlled vocabulary is used for EV Supply Chain Role (list the roles mentioned in the definition)?": "The controlled vocabulary used for EV Supply Chain Role includes \"General Automotive\" and \"Materials\".",
+    "List all companies in Category = OEM Footprint and provide their Employment and EV Supply Chain Role.": "- YKK USA Inc.: Employment not specified, EV Supply Chain Role: EV sensors, braking, and control systems\n- ZF Gainesville LLC: Employment not specified, EV Supply Chain Role: EV thermal systems and electronics\n- Minebea AccessSolutions USA Inc.: Employment not specified, EV Supply Chain Role: General Automotive\n- Tie Down Engineering: Employment not specified, EV Supply Chain Role: OEM corporate and engineering footprint (electrification)\n- Trenton Pressing: Employment not specified, EV Supply Chain Role: OEM corporate footprint and supplier integration\n- TI Fluid Systems: Employment not specified, EV Supply Chain Roles: OEM corporate footprint influencing EV strategy, Vehicle safety systems OEM (EV + ICE)\n- TN Americas Holding Inc.: Employment not specified, EV Supply Chain Role: OEM parent group footprint (EV + HD electrification)\n- Toyota Industries Group (TACG-TICA): Employment not specified, EV Supply Chain Role: OEM parent group footprint (electric truck strategy)\n- Yazaki North America: Employment not specified, EV Supply Chain Role: Power electronics, sensors, and EV systems\n- Kia Georgia Inc.: Employment not specified, EV Supply Chain Role: Vehicle Assembly\n- Superior Essex Inc.: Employment not specified, EV Supply Chain Role: Vehicle Assembly\n- Suzuki Manufacturing of America Corp.: Employment not specified, EV Supply Chain Role: Vehicle Assembly\n- TCI Powder Coatings: Employment not specified, EV Supply Chain Role: Vehicle Assembly\n- TDK Components USA Inc.: Employment not specified, EV Supply Chain Role: Vehicle Assembly\n- TE Connectivity: Employment not specified, EV Supply Chain Role: Vehicle Assembly\n- Teklas USA: Employment not specified, EV Supply Chain Role: Vehicle Assembly\n- Textron Specialized Vehicles: Employment not specified, EV Supply Chain Role: Vehicle Assembly\n- Thermal Ceramics Inc.: Employment not specified, EV Supply Chain Role: Vehicle Assembly\n- Thomson Plastics Inc.: Employment not specified, EV Supply Chain Role: Vehicle Assembly",
+    "Which companies have Primary Facility Type = Regional corporate operations, and what are their Categories and Locations?": "None of the provided companies have a Primary Facility Type listed as Regional corporate operations.",
+    "Among EV / Battery Relevant = Yes companies, which Industry Groups are represented and how many companies are in each?": "Among companies with EV / Battery Relevant = Yes:\n\n- Tier 1/2 (Battery Pack): 2 companies (F&P Georgia Manufacturing and Hyundai Motor Group)\n- Tier 1/2 (Battery Cell): 1 company (Honda Development & Manufacturing)",
+    "Within Tier 1 suppliers, identify companies in 'Electronic and Other Electrical Equipment and Components' and list their Product / Service.": "Within Tier 1 suppliers, there are no companies listed specifically in the 'Electronic and Other Electrical Equipment and Components' category based on the provided evidence.",
+    "According to the Methodology sheet, how are supply chain tiers assigned (what approach is described)?": "The provided evidence does not describe the approach for assigning supply chain tiers."
+  },
+  "scores": {
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all companies categorized as Tier 1 and Tier 1/2, and group them by EV Supply Chain Role.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.75
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List the companies involved in Battery Pack activities and include their Category, Location, Product / Service, and Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are classified under Battery Cell, and which Primary OEMs are they linked to?\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which companies are classified under Battery Cell, and which Primary OEMs are they linked to?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are classified under Battery Cell, and which Primary OEMs are they linked to?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are classified under Battery Cell, and which Primary OEMs are they linked to?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are classified under Battery Cell, and which Primary OEMs are they linked to?\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are classified under Battery Cell, and which Primary OEMs are they linked to?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Map the companies whose EV Supply Chain Role is Thermal Management, including their Location and Primary Facility Type.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Map the companies whose EV Supply Chain Role is Thermal Management, including their Location and Primary Facility Type.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Map the companies whose EV Supply Chain Role is Thermal Management, including their Location and Primary Facility Type.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Map the companies whose EV Supply Chain Role is Thermal Management, including their Location and Primary Facility Type.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Map the companies whose EV Supply Chain Role is Thermal Management, including their Location and Primary Facility Type.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Map the companies whose EV Supply Chain Role is Thermal Management, including their Location and Primary Facility Type.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are tagged as Power Electronics, and what Product / Service do they provide?\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Which companies are tagged as Power Electronics, and what Product / Service do they provide?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are tagged as Power Electronics, and what Product / Service do they provide?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are tagged as Power Electronics, and what Product / Service do they provide?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are tagged as Power Electronics, and what Product / Service do they provide?\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are tagged as Power Electronics, and what Product / Service do they provide?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all Vehicle Assembly entities and summarize their Primary OEMs and Employment.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all Vehicle Assembly entities and summarize their Primary OEMs and Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all Vehicle Assembly entities and summarize their Primary OEMs and Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Show all Vehicle Assembly entities and summarize their Primary OEMs and Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all Vehicle Assembly entities and summarize their Primary OEMs and Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all Vehicle Assembly entities and summarize their Primary OEMs and Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with EV / Battery Relevant = Yes and provide their EV Supply Chain Role and Category.\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "List all companies with EV / Battery Relevant = Yes and provide their EV Supply Chain Role and Category.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with EV / Battery Relevant = Yes and provide their EV Supply Chain Role and Category.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies with EV / Battery Relevant = Yes and provide their EV Supply Chain Role and Category.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with EV / Battery Relevant = Yes and provide their EV Supply Chain Role and Category.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies with EV / Battery Relevant = Yes and provide their EV Supply Chain Role and Category.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Roles have at least one company with EV / Battery Relevant = Yes? Provide the roles and the matching companies.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which EV Supply Chain Roles have at least one company with EV / Battery Relevant = Yes? Provide the roles and the matching companies.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Roles have at least one company with EV / Battery Relevant = Yes? Provide the roles and the matching companies.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which EV Supply Chain Roles have at least one company with EV / Battery Relevant = Yes? Provide the roles and the matching companies.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Roles have at least one company with EV / Battery Relevant = Yes? Provide the roles and the matching companies.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Roles have at least one company with EV / Battery Relevant = Yes? Provide the roles and the matching companies.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Identify the set of Industry Groups represented among Battery Pack and Battery Cell companies.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify the set of Industry Groups represented among Battery Pack and Battery Cell companies.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify the set of Industry Groups represented among Battery Pack and Battery Cell companies.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Identify the set of Industry Groups represented among Battery Pack and Battery Cell companies.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify the set of Industry Groups represented among Battery Pack and Battery Cell companies.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify the set of Industry Groups represented among Battery Pack and Battery Cell companies.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "For each Category (Tier 2/3, Tier 1/2, Tier 1, OEM, OEM Supply Chain, OEM (Footprint), OEM Footprint), count how many companies are in the dataset.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For each Category (Tier 2/3, Tier 1/2, Tier 1, OEM, OEM Supply Chain, OEM (Footprint), OEM Footprint), count how many companies are in the dataset.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For each Category (Tier 2/3, Tier 1/2, Tier 1, OEM, OEM Supply Chain, OEM (Footprint), OEM Footprint), count how many companies are in the dataset.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "For each Category (Tier 2/3, Tier 1/2, Tier 1, OEM, OEM Supply Chain, OEM (Footprint), OEM Footprint), count how many companies are in the dataset.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Category (Tier 2/3, Tier 1/2, Tier 1, OEM, OEM Supply Chain, OEM (Footprint), OEM Footprint), count how many companies are in the dataset.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For each Category (Tier 2/3, Tier 1/2, Tier 1, OEM, OEM Supply Chain, OEM (Footprint), OEM Footprint), count how many companies are in the dataset.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies located in Troup County and include their Category, EV Supply Chain Role, and Employment.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies located in Troup County and include their Category, EV Supply Chain Role, and Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies located in Troup County and include their Category, EV Supply Chain Role, and Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies located in Troup County and include their Category, EV Supply Chain Role, and Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies located in Troup County and include their Category, EV Supply Chain Role, and Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies located in Troup County and include their Category, EV Supply Chain Role, and Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which counties have the highest number of Tier 1 suppliers? Return the county counts and the top 5 counties.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which counties have the highest number of Tier 1 suppliers? Return the county counts and the top 5 counties.\u241fqwen_no_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which counties have the highest number of Tier 1 suppliers? Return the county counts and the top 5 counties.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the highest number of Tier 1 suppliers? Return the county counts and the top 5 counties.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the highest number of Tier 1 suppliers? Return the county counts and the top 5 counties.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the highest number of Tier 1 suppliers? Return the county counts and the top 5 counties.\u241fgemini_no_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Show all companies located in Gwinnett County and include their Industry Group and Product / Service.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all companies located in Gwinnett County and include their Industry Group and Product / Service.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies located in Gwinnett County and include their Industry Group and Product / Service.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all companies located in Gwinnett County and include their Industry Group and Product / Service.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies located in Gwinnett County and include their Industry Group and Product / Service.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all companies located in Gwinnett County and include their Industry Group and Product / Service.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify all companies in Hall County and list their Primary Facility Type and EV / Battery Relevant status.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Identify all companies in Hall County and list their Primary Facility Type and EV / Battery Relevant status.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify all companies in Hall County and list their Primary Facility Type and EV / Battery Relevant status.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify all companies in Hall County and list their Primary Facility Type and EV / Battery Relevant status.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify all companies in Hall County and list their Primary Facility Type and EV / Battery Relevant status.\u241fgemini_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Identify all companies in Hall County and list their Primary Facility Type and EV / Battery Relevant status.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which cities have both Tier 1 and Tier 2/3 companies present? Provide the city names and the matching companies.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which cities have both Tier 1 and Tier 2/3 companies present? Provide the city names and the matching companies.\u241fqwen_no_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which cities have both Tier 1 and Tier 2/3 companies present? Provide the city names and the matching companies.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which cities have both Tier 1 and Tier 2/3 companies present? Provide the city names and the matching companies.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which cities have both Tier 1 and Tier 2/3 companies present? Provide the city names and the matching companies.\u241fgemini_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which cities have both Tier 1 and Tier 2/3 companies present? Provide the city names and the matching companies.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find the counties that contain at least one Battery Pack company and list the Battery Pack companies in each county.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Find the counties that contain at least one Battery Pack company and list the Battery Pack companies in each county.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find the counties that contain at least one Battery Pack company and list the Battery Pack companies in each county.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find the counties that contain at least one Battery Pack company and list the Battery Pack companies in each county.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Find the counties that contain at least one Battery Pack company and list the Battery Pack companies in each county.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Find the counties that contain at least one Battery Pack company and list the Battery Pack companies in each county.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which county has the highest total Employment across all companies? Provide the county and the summed Employment.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which county has the highest total Employment across all companies? Provide the county and the summed Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which county has the highest total Employment across all companies? Provide the county and the summed Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which county has the highest total Employment across all companies? Provide the county and the summed Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which county has the highest total Employment across all companies? Provide the county and the summed Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which county has the highest total Employment across all companies? Provide the county and the summed Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Compute total Employment by EV Supply Chain Role for companies located in Fulton County.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Compute total Employment by EV Supply Chain Role for companies located in Fulton County.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Compute total Employment by EV Supply Chain Role for companies located in Fulton County.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Compute total Employment by EV Supply Chain Role for companies located in Fulton County.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Compute total Employment by EV Supply Chain Role for companies located in Fulton County.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Compute total Employment by EV Supply Chain Role for companies located in Fulton County.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List companies whose Location is reported as Georgia (or Georgia (facility presence)) and summarize their Category and EV Supply Chain Role.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List companies whose Location is reported as Georgia (or Georgia (facility presence)) and summarize their Category and EV Supply Chain Role.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List companies whose Location is reported as Georgia (or Georgia (facility presence)) and summarize their Category and EV Supply Chain Role.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List companies whose Location is reported as Georgia (or Georgia (facility presence)) and summarize their Category and EV Supply Chain Role.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List companies whose Location is reported as Georgia (or Georgia (facility presence)) and summarize their Category and EV Supply Chain Role.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List companies whose Location is reported as Georgia (or Georgia (facility presence)) and summarize their Category and EV Supply Chain Role.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show the distribution of companies by County for EV / Battery Relevant = Yes only.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show the distribution of companies by County for EV / Battery Relevant = Yes only.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show the distribution of companies by County for EV / Battery Relevant = Yes only.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Show the distribution of companies by County for EV / Battery Relevant = Yes only.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show the distribution of companies by County for EV / Battery Relevant = Yes only.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show the distribution of companies by County for EV / Battery Relevant = Yes only.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with Primary Facility Type = Headquarters (including North American\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with Primary Facility Type = Headquarters (including North American\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with Primary Facility Type = Headquarters (including North American\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies with Primary Facility Type = Headquarters (including North American\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with Primary Facility Type = Headquarters (including North American\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with Primary Facility Type = Headquarters (including North American\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Headquarters) and include their Location and Employment.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Headquarters) and include their Location and Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Headquarters) and include their Location and Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Headquarters) and include their Location and Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Headquarters) and include their Location and Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Headquarters) and include their Location and Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have Primary Facility Type = R&D, and what EV Supply Chain Role are they associated with?\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have Primary Facility Type = R&D, and what EV Supply Chain Role are they associated with?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have Primary Facility Type = R&D, and what EV Supply Chain Role are they associated with?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies have Primary Facility Type = R&D, and what EV Supply Chain Role are they associated with?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have Primary Facility Type = R&D, and what EV Supply Chain Role are they associated with?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have Primary Facility Type = R&D, and what EV Supply Chain Role are they associated with?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all Manufacturing Plant (or Manufacturing plant) entries and group them by Industry Group.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all Manufacturing Plant (or Manufacturing plant) entries and group them by Industry Group.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all Manufacturing Plant (or Manufacturing plant) entries and group them by Industry Group.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Show all Manufacturing Plant (or Manufacturing plant) entries and group them by Industry Group.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all Manufacturing Plant (or Manufacturing plant) entries and group them by Industry Group.\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Show all Manufacturing Plant (or Manufacturing plant) entries and group them by Industry Group.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type containing 'Corporate operations', which ones are EV / Battery Relevant = Yes?\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type containing 'Corporate operations', which ones are EV / Battery Relevant = Yes?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type containing 'Corporate operations', which ones are EV / Battery Relevant = Yes?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type containing 'Corporate operations', which ones are EV / Battery Relevant = Yes?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type containing 'Corporate operations', which ones are EV / Battery Relevant = Yes?\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Among companies with Primary Facility Type containing 'Corporate operations', which ones are EV / Battery Relevant = Yes?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies with Primary Facility Type containing both Engineering and Manufacturing, and list their Product / Service.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Identify companies with Primary Facility Type containing both Engineering and Manufacturing, and list their Product / Service.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Identify companies with Primary Facility Type containing both Engineering and Manufacturing, and list their Product / Service.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies with Primary Facility Type containing both Engineering and Manufacturing, and list their Product / Service.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies with Primary Facility Type containing both Engineering and Manufacturing, and list their Product / Service.\u241fgemini_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Identify companies with Primary Facility Type containing both Engineering and Manufacturing, and list their Product / Service.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For each Primary Facility Type, compute the average Employment.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Primary Facility Type, compute the average Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Primary Facility Type, compute the average Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For each Primary Facility Type, compute the average Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Primary Facility Type, compute the average Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "For each Primary Facility Type, compute the average Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which EV Supply Chain Role has the highest average Employment among Tier 1 suppliers?\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Role has the highest average Employment among Tier 1 suppliers?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Role has the highest average Employment among Tier 1 suppliers?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Role has the highest average Employment among Tier 1 suppliers?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Role has the highest average Employment among Tier 1 suppliers?\u241fgemini_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Which EV Supply Chain Role has the highest average Employment among Tier 1 suppliers?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List Tier 2/3 suppliers with Employment >= 500 and provide their Location and Product / Service.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List Tier 2/3 suppliers with Employment >= 500 and provide their Location and Product / Service.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List Tier 2/3 suppliers with Employment >= 500 and provide their Location and Product / Service.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.75
+    },
+    "List Tier 2/3 suppliers with Employment >= 500 and provide their Location and Product / Service.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List Tier 2/3 suppliers with Employment >= 500 and provide their Location and Product / Service.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List Tier 2/3 suppliers with Employment >= 500 and provide their Location and Product / Service.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find Tier 1/2 companies with EV / Battery Relevant = Yes and show their Primary OEMs.\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Find Tier 1/2 companies with EV / Battery Relevant = Yes and show their Primary OEMs.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find Tier 1/2 companies with EV / Battery Relevant = Yes and show their Primary OEMs.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Find Tier 1/2 companies with EV / Battery Relevant = Yes and show their Primary OEMs.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find Tier 1/2 companies with EV / Battery Relevant = Yes and show their Primary OEMs.\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Find Tier 1/2 companies with EV / Battery Relevant = Yes and show their Primary OEMs.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among Materials companies, which ones are EV / Battery Relevant = Yes versus Indirect? Provide counts and company lists.\u241fqwen_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Among Materials companies, which ones are EV / Battery Relevant = Yes versus Indirect? Provide counts and company lists.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among Materials companies, which ones are EV / Battery Relevant = Yes versus Indirect? Provide counts and company lists.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Among Materials companies, which ones are EV / Battery Relevant = Yes versus Indirect? Provide counts and company lists.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among Materials companies, which ones are EV / Battery Relevant = Yes versus Indirect? Provide counts and company lists.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among Materials companies, which ones are EV / Battery Relevant = Yes versus Indirect? Provide counts and company lists.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which Industry Group has the largest number of companies in the dataset, and what are the top 3 Industry Groups by count?\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Group has the largest number of companies in the dataset, and what are the top 3 Industry Groups by count?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Which Industry Group has the largest number of companies in the dataset, and what are the top 3 Industry Groups by count?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Group has the largest number of companies in the dataset, and what are the top 3 Industry Groups by count?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Group has the largest number of companies in the dataset, and what are the top 3 Industry Groups by count?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Group has the largest number of companies in the dataset, and what are the top 3 Industry Groups by count?\u241fgemini_no_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Within the Industry Group 'Electronic and Other Electrical Equipment and Components', list the companies and their EV Supply Chain Role.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Within the Industry Group 'Electronic and Other Electrical Equipment and Components', list the companies and their EV Supply Chain Role.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within the Industry Group 'Electronic and Other Electrical Equipment and Components', list the companies and their EV Supply Chain Role.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Within the Industry Group 'Electronic and Other Electrical Equipment and Components', list the companies and their EV Supply Chain Role.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within the Industry Group 'Electronic and Other Electrical Equipment and Components', list the companies and their EV Supply Chain Role.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within the Industry Group 'Electronic and Other Electrical Equipment and Components', list the companies and their EV Supply Chain Role.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within 'Rubber and Miscellaneous Plastic Products', which companies are EV / Battery Relevant = Yes?\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within 'Rubber and Miscellaneous Plastic Products', which companies are EV / Battery Relevant = Yes?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within 'Rubber and Miscellaneous Plastic Products', which companies are EV / Battery Relevant = Yes?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Within 'Rubber and Miscellaneous Plastic Products', which companies are EV / Battery Relevant = Yes?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within 'Rubber and Miscellaneous Plastic Products', which companies are EV / Battery Relevant = Yes?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within 'Rubber and Miscellaneous Plastic Products', which companies are EV / Battery Relevant = Yes?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies whose EV Supply Chain Role is General Automotive but EV / Battery Relevant = Yes, and include Product / Service.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies whose EV Supply Chain Role is General Automotive but EV / Battery Relevant = Yes, and include Product / Service.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies whose EV Supply Chain Role is General Automotive but EV / Battery Relevant = Yes, and include Product / Service.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies whose EV Supply Chain Role is General Automotive but EV / Battery Relevant = Yes, and include Product / Service.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies whose EV Supply Chain Role is General Automotive but EV / Battery Relevant = Yes, and include Product / Service.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies whose EV Supply Chain Role is General Automotive but EV / Battery Relevant = Yes, and include Product / Service.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are in the Charging Infrastructure role, and what is their Category and Location?\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which companies are in the Charging Infrastructure role, and what is their Category and Location?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are in the Charging Infrastructure role, and what is their Category and Location?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are in the Charging Infrastructure role, and what is their Category and Location?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are in the Charging Infrastructure role, and what is their Category and Location?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are in the Charging Infrastructure role, and what is their Category and Location?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies linked to Hyundai Kia and include their Category, EV Supply Chain Role, and Location.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies linked to Hyundai Kia and include their Category, EV Supply Chain Role, and Location.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies linked to Hyundai Kia and include their Category, EV Supply Chain Role, and Location.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies linked to Hyundai Kia and include their Category, EV Supply Chain Role, and Location.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies linked to Hyundai Kia and include their Category, EV Supply Chain Role, and Location.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies linked to Hyundai Kia and include their Category, EV Supply Chain Role, and Location.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are linked to Hyundai Motor Group, and what Products / Services do they provide?\u241fqwen_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which companies are linked to Hyundai Motor Group, and what Products / Services do they provide?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are linked to Hyundai Motor Group, and what Products / Services do they provide?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which companies are linked to Hyundai Motor Group, and what Products / Services do they provide?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are linked to Hyundai Motor Group, and what Products / Services do they provide?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are linked to Hyundai Motor Group, and what Products / Services do they provide?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify suppliers linked to Rivian Automotive and show their Employment and Location.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify suppliers linked to Rivian Automotive and show their Employment and Location.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify suppliers linked to Rivian Automotive and show their Employment and Location.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify suppliers linked to Rivian Automotive and show their Employment and Location.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify suppliers linked to Rivian Automotive and show their Employment and Location.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify suppliers linked to Rivian Automotive and show their Employment and Location.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all entries where Primary OEMs = Multiple OEMs and compute the median Employment for those entries.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "List all entries where Primary OEMs = Multiple OEMs and compute the median Employment for those entries.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.75
+    },
+    "List all entries where Primary OEMs = Multiple OEMs and compute the median Employment for those entries.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all entries where Primary OEMs = Multiple OEMs and compute the median Employment for those entries.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all entries where Primary OEMs = Multiple OEMs and compute the median Employment for those entries.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all entries where Primary OEMs = Multiple OEMs and compute the median Employment for those entries.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are linked to Mercedes-Benz USA LLC and what EV / Battery Relevant status do they have?\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Which companies are linked to Mercedes-Benz USA LLC and what EV / Battery Relevant status do they have?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which companies are linked to Mercedes-Benz USA LLC and what EV / Battery Relevant status do they have?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which companies are linked to Mercedes-Benz USA LLC and what EV / Battery Relevant status do they have?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which companies are linked to Mercedes-Benz USA LLC and what EV / Battery Relevant status do they have?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are linked to Mercedes-Benz USA LLC and what EV / Battery Relevant status do they have?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Find the company (or companies) linked to SK Battery America and provide its EV Supply Chain Role and Location.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Find the company (or companies) linked to SK Battery America and provide its EV Supply Chain Role and Location.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find the company (or companies) linked to SK Battery America and provide its EV Supply Chain Role and Location.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Find the company (or companies) linked to SK Battery America and provide its EV Supply Chain Role and Location.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find the company (or companies) linked to SK Battery America and provide its EV Supply Chain Role and Location.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find the company (or companies) linked to SK Battery America and provide its EV Supply Chain Role and Location.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies linked to Club Car LLC and include their EV Supply Chain Role and Product / Service.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "List all companies linked to Club Car LLC and include their EV Supply Chain Role and Product / Service.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "List all companies linked to Club Car LLC and include their EV Supply Chain Role and Product / Service.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "List all companies linked to Club Car LLC and include their EV Supply Chain Role and Product / Service.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies linked to Club Car LLC and include their EV Supply Chain Role and Product / Service.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies linked to Club Car LLC and include their EV Supply Chain Role and Product / Service.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are linked to Blue Bird or Blue Bird Corp., and what is their Primary Facility Type?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are linked to Blue Bird or Blue Bird Corp., and what is their Primary Facility Type?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are linked to Blue Bird or Blue Bird Corp., and what is their Primary Facility Type?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which companies are linked to Blue Bird or Blue Bird Corp., and what is their Primary Facility Type?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are linked to Blue Bird or Blue Bird Corp., and what is their Primary Facility Type?\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which companies are linked to Blue Bird or Blue Bird Corp., and what is their Primary Facility Type?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Show all companies linked to Yamaha Motor Manufacturing Corp. and include Category, Location, and Employment.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Show all companies linked to Yamaha Motor Manufacturing Corp. and include Category, Location, and Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies linked to Yamaha Motor Manufacturing Corp. and include Category, Location, and Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Show all companies linked to Yamaha Motor Manufacturing Corp. and include Category, Location, and Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Show all companies linked to Yamaha Motor Manufacturing Corp. and include Category, Location, and Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Show all companies linked to Yamaha Motor Manufacturing Corp. and include Category, Location, and Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Primary OEM listed (excluding blanks), count how many companies are associated with it.\u241fqwen_rag": {
+      "answer_accuracy": 0.25
+    },
+    "For each Primary OEM listed (excluding blanks), count how many companies are associated with it.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Primary OEM listed (excluding blanks), count how many companies are associated with it.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "For each Primary OEM listed (excluding blanks), count how many companies are associated with it.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "For each Primary OEM listed (excluding blanks), count how many companies are associated with it.\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "For each Primary OEM listed (excluding blanks), count how many companies are associated with it.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Primary OEM has the highest total Employment across its associated companies (excluding blanks)?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which Primary OEM has the highest total Employment across its associated companies (excluding blanks)?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Primary OEM has the highest total Employment across its associated companies (excluding blanks)?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Primary OEM has the highest total Employment across its associated companies (excluding blanks)?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Primary OEM has the highest total Employment across its associated companies (excluding blanks)?\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which Primary OEM has the highest total Employment across its associated companies (excluding blanks)?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify any companies that supply to more than one OEM based on the Primary OEMs field (e.g., entries like 'Hyundai Kia Rivian') and list them.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Identify any companies that supply to more than one OEM based on the Primary OEMs field (e.g., entries like 'Hyundai Kia Rivian') and list them.\u241fqwen_no_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Identify any companies that supply to more than one OEM based on the Primary OEMs field (e.g., entries like 'Hyundai Kia Rivian') and list them.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify any companies that supply to more than one OEM based on the Primary OEMs field (e.g., entries like 'Hyundai Kia Rivian') and list them.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify any companies that supply to more than one OEM based on the Primary OEMs field (e.g., entries like 'Hyundai Kia Rivian') and list them.\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Identify any companies that supply to more than one OEM based on the Primary OEMs field (e.g., entries like 'Hyundai Kia Rivian') and list them.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies linked to 'Hyundai Kia Rivian', list their EV Supply Chain Role and Product / Service.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Among companies linked to 'Hyundai Kia Rivian', list their EV Supply Chain Role and Product / Service.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies linked to 'Hyundai Kia Rivian', list their EV Supply Chain Role and Product / Service.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Among companies linked to 'Hyundai Kia Rivian', list their EV Supply Chain Role and Product / Service.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies linked to 'Hyundai Kia Rivian', list their EV Supply Chain Role and Product / Service.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies linked to 'Hyundai Kia Rivian', list their EV Supply Chain Role and Product / Service.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find all companies linked to Porsche Cars North America Inc. and provide their Location and Employment.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Find all companies linked to Porsche Cars North America Inc. and provide their Location and Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find all companies linked to Porsche Cars North America Inc. and provide their Location and Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Find all companies linked to Porsche Cars North America Inc. and provide their Location and Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find all companies linked to Porsche Cars North America Inc. and provide their Location and Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Find all companies linked to Porsche Cars North America Inc. and provide their Location and Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which OEM-linked entries are missing Supplier or Affiliation Type, and what are their Categories?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which OEM-linked entries are missing Supplier or Affiliation Type, and what are their Categories?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which OEM-linked entries are missing Supplier or Affiliation Type, and what are their Categories?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which OEM-linked entries are missing Supplier or Affiliation Type, and what are their Categories?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which OEM-linked entries are missing Supplier or Affiliation Type, and what are their Categories?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which OEM-linked entries are missing Supplier or Affiliation Type, and what are their Categories?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which 10 companies have the highest Employment, and what are their Categories and Locations?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which 10 companies have the highest Employment, and what are their Categories and Locations?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which 10 companies have the highest Employment, and what are their Categories and Locations?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which 10 companies have the highest Employment, and what are their Categories and Locations?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which 10 companies have the highest Employment, and what are their Categories and Locations?\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which 10 companies have the highest Employment, and what are their Categories and Locations?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which 10 companies have the lowest Employment, and what are their EV Supply Chain Roles?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which 10 companies have the lowest Employment, and what are their EV Supply Chain Roles?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which 10 companies have the lowest Employment, and what are their EV Supply Chain Roles?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which 10 companies have the lowest Employment, and what are their EV Supply Chain Roles?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which 10 companies have the lowest Employment, and what are their EV Supply Chain Roles?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which 10 companies have the lowest Employment, and what are their EV Supply Chain Roles?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among EV / Battery Relevant = Yes companies, which company has the highest Employment and what is its Product / Service?\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Among EV / Battery Relevant = Yes companies, which company has the highest Employment and what is its Product / Service?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among EV / Battery Relevant = Yes companies, which company has the highest Employment and what is its Product / Service?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Among EV / Battery Relevant = Yes companies, which company has the highest Employment and what is its Product / Service?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among EV / Battery Relevant = Yes companies, which company has the highest Employment and what is its Product / Service?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among EV / Battery Relevant = Yes companies, which company has the highest Employment and what is its Product / Service?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Compare total Employment between EV / Battery Relevant groups (Yes vs Indirect vs No).\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Compare total Employment between EV / Battery Relevant groups (Yes vs Indirect vs No).\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Compare total Employment between EV / Battery Relevant groups (Yes vs Indirect vs No).\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Compare total Employment between EV / Battery Relevant groups (Yes vs Indirect vs No).\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Compare total Employment between EV / Battery Relevant groups (Yes vs Indirect vs No).\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Compare total Employment between EV / Battery Relevant groups (Yes vs Indirect vs No).\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each EV Supply Chain Role, calculate total Employment and identify the top 3 roles by total Employment.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For each EV Supply Chain Role, calculate total Employment and identify the top 3 roles by total Employment.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each EV Supply Chain Role, calculate total Employment and identify the top 3 roles by total Employment.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For each EV Supply Chain Role, calculate total Employment and identify the top 3 roles by total Employment.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each EV Supply Chain Role, calculate total Employment and identify the top 3 roles by total Employment.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each EV Supply Chain Role, calculate total Employment and identify the top 3 roles by total Employment.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 1 suppliers, what is the Employment range (min and max) and which companies correspond to those extremes?\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Within Tier 1 suppliers, what is the Employment range (min and max) and which companies correspond to those extremes?\u241fqwen_no_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Within Tier 1 suppliers, what is the Employment range (min and max) and which companies correspond to those extremes?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Within Tier 1 suppliers, what is the Employment range (min and max) and which companies correspond to those extremes?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 1 suppliers, what is the Employment range (min and max) and which companies correspond to those extremes?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 1 suppliers, what is the Employment range (min and max) and which companies correspond to those extremes?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 2/3 suppliers, what is the average Employment by Industry Group?\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Within Tier 2/3 suppliers, what is the average Employment by Industry Group?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Within Tier 2/3 suppliers, what is the average Employment by Industry Group?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 2/3 suppliers, what is the average Employment by Industry Group?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 2/3 suppliers, what is the average Employment by Industry Group?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 2/3 suppliers, what is the average Employment by Industry Group?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Which counties have the highest total Employment among Tier 1 suppliers only?\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which counties have the highest total Employment among Tier 1 suppliers only?\u241fqwen_no_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which counties have the highest total Employment among Tier 1 suppliers only?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the highest total Employment among Tier 1 suppliers only?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the highest total Employment among Tier 1 suppliers only?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the highest total Employment among Tier 1 suppliers only?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.75
+    },
+    "In Gwinnett County, which company has the highest Employment and what is its EV Supply Chain Role?\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "In Gwinnett County, which company has the highest Employment and what is its EV Supply Chain Role?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "In Gwinnett County, which company has the highest Employment and what is its EV Supply Chain Role?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "In Gwinnett County, which company has the highest Employment and what is its EV Supply Chain Role?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "In Gwinnett County, which company has the highest Employment and what is its EV Supply Chain Role?\u241fgemini_rag": {
+      "answer_accuracy": 1.0
+    },
+    "In Gwinnett County, which company has the highest Employment and what is its EV Supply Chain Role?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type = R&D, which one has the highest Employment and what is its Location?\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type = R&D, which one has the highest Employment and what is its Location?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type = R&D, which one has the highest Employment and what is its Location?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type = R&D, which one has the highest Employment and what is its Location?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Among companies with Primary Facility Type = R&D, which one has the highest Employment and what is its Location?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies with Primary Facility Type = R&D, which one has the highest Employment and what is its Location?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with Employment between 200 and 500 (inclusive) that are EV / Battery Relevant = Yes.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies with Employment between 200 and 500 (inclusive) that are EV / Battery Relevant = Yes.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with Employment between 200 and 500 (inclusive) that are EV / Battery Relevant = Yes.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies with Employment between 200 and 500 (inclusive) that are EV / Battery Relevant = Yes.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with Employment between 200 and 500 (inclusive) that are EV / Battery Relevant = Yes.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies with Employment between 200 and 500 (inclusive) that are EV / Battery Relevant = Yes.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Group has the highest total Employment across all companies?\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Group has the highest total Employment across all companies?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Group has the highest total Employment across all companies?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which Industry Group has the highest total Employment across all companies?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Group has the highest total Employment across all companies?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Group has the highest total Employment across all companies?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Category, compute the average Employment and identify which Category has the highest average.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For each Category, compute the average Employment and identify which Category has the highest average.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Category, compute the average Employment and identify which Category has the highest average.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For each Category, compute the average Employment and identify which Category has the highest average.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Category, compute the average Employment and identify which Category has the highest average.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Category, compute the average Employment and identify which Category has the highest average.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify companies with Employment >= 10,000 and list their Category and Classification\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify companies with Employment >= 10,000 and list their Category and Classification\u241fqwen_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Identify companies with Employment >= 10,000 and list their Category and Classification\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify companies with Employment >= 10,000 and list their Category and Classification\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies with Employment >= 10,000 and list their Category and Classification\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify companies with Employment >= 10,000 and list their Category and Classification\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Method.\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Method.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Method.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Method.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Method.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Method.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Among OEM categories (OEM, OEM Supply Chain, OEM Footprint, OEM (Footprint)), which has the highest total Employment?\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among OEM categories (OEM, OEM Supply Chain, OEM Footprint, OEM (Footprint)), which has the highest total Employment?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among OEM categories (OEM, OEM Supply Chain, OEM Footprint, OEM (Footprint)), which has the highest total Employment?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among OEM categories (OEM, OEM Supply Chain, OEM Footprint, OEM (Footprint)), which has the highest total Employment?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among OEM categories (OEM, OEM Supply Chain, OEM Footprint, OEM (Footprint)), which has the highest total Employment?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among OEM categories (OEM, OEM Supply Chain, OEM Footprint, OEM (Footprint)), which has the highest total Employment?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Role is most concentrated in a single county (i.e., the role where one county contains the largest share of that role's companies)?\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Which EV Supply Chain Role is most concentrated in a single county (i.e., the role where one county contains the largest share of that role's companies)?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Role is most concentrated in a single county (i.e., the role where one county contains the largest share of that role's companies)?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Role is most concentrated in a single county (i.e., the role where one county contains the largest share of that role's companies)?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Role is most concentrated in a single county (i.e., the role where one county contains the largest share of that role's companies)?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which EV Supply Chain Role is most concentrated in a single county (i.e., the role where one county contains the largest share of that role's companies)?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify EV Supply Chain Roles that have only one company in the dataset, and list the company for each such role.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify EV Supply Chain Roles that have only one company in the dataset, and list the company for each such role.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify EV Supply Chain Roles that have only one company in the dataset, and list the company for each such role.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Identify EV Supply Chain Roles that have only one company in the dataset, and list the company for each such role.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify EV Supply Chain Roles that have only one company in the dataset, and list the company for each such role.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify EV Supply Chain Roles that have only one company in the dataset, and list the company for each such role.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the fewest companies overall (excluding rows with Location = Georgia)? Provide the bottom 5 counties by company count.\u241fqwen_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which counties have the fewest companies overall (excluding rows with Location = Georgia)? Provide the bottom 5 counties by company count.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the fewest companies overall (excluding rows with Location = Georgia)? Provide the bottom 5 counties by company count.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which counties have the fewest companies overall (excluding rows with Location = Georgia)? Provide the bottom 5 counties by company count.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the fewest companies overall (excluding rows with Location = Georgia)? Provide the bottom 5 counties by company count.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have the fewest companies overall (excluding rows with Location = Georgia)? Provide the bottom 5 counties by company count.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For Tier 1 suppliers, identify any counties that have only one Tier 1 supplier and name that supplier.\u241fqwen_rag": {
+      "answer_accuracy": 0.25
+    },
+    "For Tier 1 suppliers, identify any counties that have only one Tier 1 supplier and name that supplier.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For Tier 1 suppliers, identify any counties that have only one Tier 1 supplier and name that supplier.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For Tier 1 suppliers, identify any counties that have only one Tier 1 supplier and name that supplier.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For Tier 1 suppliers, identify any counties that have only one Tier 1 supplier and name that supplier.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For Tier 1 suppliers, identify any counties that have only one Tier 1 supplier and name that supplier.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify any companies that appear multiple times in the dataset, and for each, list the distinct EV Supply Chain Roles recorded.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Identify any companies that appear multiple times in the dataset, and for each, list the distinct EV Supply Chain Roles recorded.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify any companies that appear multiple times in the dataset, and for each, list the distinct EV Supply Chain Roles recorded.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify any companies that appear multiple times in the dataset, and for each, list the distinct EV Supply Chain Roles recorded.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify any companies that appear multiple times in the dataset, and for each, list the distinct EV Supply Chain Roles recorded.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify any companies that appear multiple times in the dataset, and for each, list the distinct EV Supply Chain Roles recorded.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'ZF Gainesville LLC', list all rows and compare their Categories, EV Supply Chain Roles, and Locations.\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "For the company 'ZF Gainesville LLC', list all rows and compare their Categories, EV Supply Chain Roles, and Locations.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'ZF Gainesville LLC', list all rows and compare their Categories, EV Supply Chain Roles, and Locations.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For the company 'ZF Gainesville LLC', list all rows and compare their Categories, EV Supply Chain Roles, and Locations.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'ZF Gainesville LLC', list all rows and compare their Categories, EV Supply Chain Roles, and Locations.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'ZF Gainesville LLC', list all rows and compare their Categories, EV Supply Chain Roles, and Locations.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'Novelis Inc.', list the different Locations and Primary Facility Types recorded.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For the company 'Novelis Inc.', list the different Locations and Primary Facility Types recorded.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'Novelis Inc.', list the different Locations and Primary Facility Types recorded.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "For the company 'Novelis Inc.', list the different Locations and Primary Facility Types recorded.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'Novelis Inc.', list the different Locations and Primary Facility Types recorded.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'Novelis Inc.', list the different Locations and Primary Facility Types recorded.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'Sewon America Inc.', list each recorded Product / Service and the associated Location.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "For the company 'Sewon America Inc.', list each recorded Product / Service and the associated Location.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'Sewon America Inc.', list each recorded Product / Service and the associated Location.\u241ftinyllama_rag": {
+      "answer_accuracy": 1.0
+    },
+    "For the company 'Sewon America Inc.', list each recorded Product / Service and the associated Location.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'Sewon America Inc.', list each recorded Product / Service and the associated Location.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For the company 'Sewon America Inc.', list each recorded Product / Service and the associated Location.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Groups have both Tier 1 and Tier 2/3 suppliers present? Provide the Industry Group names.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which Industry Groups have both Tier 1 and Tier 2/3 suppliers present? Provide the Industry Group names.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Groups have both Tier 1 and Tier 2/3 suppliers present? Provide the Industry Group names.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Groups have both Tier 1 and Tier 2/3 suppliers present? Provide the Industry Group names.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Groups have both Tier 1 and Tier 2/3 suppliers present? Provide the Industry Group names.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Industry Groups have both Tier 1 and Tier 2/3 suppliers present? Provide the Industry Group names.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Materials companies, which county has the highest number of Materials entries, and what are the companies?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Within Materials companies, which county has the highest number of Materials entries, and what are the companies?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Within Materials companies, which county has the highest number of Materials entries, and what are the companies?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Within Materials companies, which county has the highest number of Materials entries, and what are the companies?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Materials companies, which county has the highest number of Materials entries, and what are the companies?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Materials companies, which county has the highest number of Materials entries, and what are the companies?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have Battery Pack or Battery Cell activity, and how many companies are in each of those roles per county?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which counties have Battery Pack or Battery Cell activity, and how many companies are in each of those roles per county?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have Battery Pack or Battery Cell activity, and how many companies are in each of those roles per county?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which counties have Battery Pack or Battery Cell activity, and how many companies are in each of those roles per county?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have Battery Pack or Battery Cell activity, and how many companies are in each of those roles per county?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which counties have Battery Pack or Battery Cell activity, and how many companies are in each of those roles per county?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies marked as EV / Battery Relevant = No but still categorized as Tier 1 or Tier 1/2; list them with their Product / Service.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies marked as EV / Battery Relevant = No but still categorized as Tier 1 or Tier 1/2; list them with their Product / Service.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies marked as EV / Battery Relevant = No but still categorized as Tier 1 or Tier 1/2; list them with their Product / Service.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies marked as EV / Battery Relevant = No but still categorized as Tier 1 or Tier 1/2; list them with their Product / Service.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies marked as EV / Battery Relevant = No but still categorized as Tier 1 or Tier 1/2; list them with their Product / Service.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies marked as EV / Battery Relevant = No but still categorized as Tier 1 or Tier 1/2; list them with their Product / Service.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Supplier or Affiliation Type categories exist in the dataset, and how many companies fall under each?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which Supplier or Affiliation Type categories exist in the dataset, and how many companies fall under each?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Supplier or Affiliation Type categories exist in the dataset, and how many companies fall under each?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which Supplier or Affiliation Type categories exist in the dataset, and how many companies fall under each?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Supplier or Affiliation Type categories exist in the dataset, and how many companies fall under each?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which Supplier or Affiliation Type categories exist in the dataset, and how many companies fall under each?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among entries with Supplier or Affiliation Type = Original Equipment Manufacturer, what EV Supply Chain Roles are represented?\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Among entries with Supplier or Affiliation Type = Original Equipment Manufacturer, what EV Supply Chain Roles are represented?\u241fqwen_no_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Among entries with Supplier or Affiliation Type = Original Equipment Manufacturer, what EV Supply Chain Roles are represented?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among entries with Supplier or Affiliation Type = Original Equipment Manufacturer, what EV Supply Chain Roles are represented?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Among entries with Supplier or Affiliation Type = Original Equipment Manufacturer, what EV Supply Chain Roles are represented?\u241fgemini_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Among entries with Supplier or Affiliation Type = Original Equipment Manufacturer, what EV Supply Chain Roles are represented?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have missing Primary OEMs, and what EV Supply Chain Role do they have?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies have missing Primary OEMs, and what EV Supply Chain Role do they have?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have missing Primary OEMs, and what EV Supply Chain Role do they have?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have missing Primary OEMs, and what EV Supply Chain Role do they have?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have missing Primary OEMs, and what EV Supply Chain Role do they have?\u241fgemini_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies have missing Primary OEMs, and what EV Supply Chain Role do they have?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies whose Product / Service text mentions 'lithium' and include their EV Supply Chain Role and Location.\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "List all companies whose Product / Service text mentions 'lithium' and include their EV Supply Chain Role and Location.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies whose Product / Service text mentions 'lithium' and include their EV Supply Chain Role and Location.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "List all companies whose Product / Service text mentions 'lithium' and include their EV Supply Chain Role and Location.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies whose Product / Service text mentions 'lithium' and include their EV Supply Chain Role and Location.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies whose Product / Service text mentions 'lithium' and include their EV Supply Chain Role and Location.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are described as a recycler in Product / Service, and what are their Categories?\u241fqwen_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Which companies are described as a recycler in Product / Service, and what are their Categories?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are described as a recycler in Product / Service, and what are their Categories?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are described as a recycler in Product / Service, and what are their Categories?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are described as a recycler in Product / Service, and what are their Categories?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are described as a recycler in Product / Service, and what are their Categories?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find companies whose Product / Service mentions 'wiring harness' or 'wire harness' and provide their Primary OEMs.\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Find companies whose Product / Service mentions 'wiring harness' or 'wire harness' and provide their Primary OEMs.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Find companies whose Product / Service mentions 'wiring harness' or 'wire harness' and provide their Primary OEMs.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find companies whose Product / Service mentions 'wiring harness' or 'wire harness' and provide their Primary OEMs.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find companies whose Product / Service mentions 'wiring harness' or 'wire harness' and provide their Primary OEMs.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find companies whose Product / Service mentions 'wiring harness' or 'wire harness' and provide their Primary OEMs.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies mention 'connectors' in Product / Service, and what is their EV / Battery Relevant status?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies mention 'connectors' in Product / Service, and what is their EV / Battery Relevant status?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies mention 'connectors' in Product / Service, and what is their EV / Battery Relevant status?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies mention 'connectors' in Product / Service, and what is their EV / Battery Relevant status?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies mention 'connectors' in Product / Service, and what is their EV / Battery Relevant status?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies mention 'connectors' in Product / Service, and what is their EV / Battery Relevant status?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies whose Product / Service mentions 'thermal' and list their EV Supply Chain Role and Primary Facility Type.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify companies whose Product / Service mentions 'thermal' and list their EV Supply Chain Role and Primary Facility Type.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies whose Product / Service mentions 'thermal' and list their EV Supply Chain Role and Primary Facility Type.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify companies whose Product / Service mentions 'thermal' and list their EV Supply Chain Role and Primary Facility Type.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies whose Product / Service mentions 'thermal' and list their EV Supply Chain Role and Primary Facility Type.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify companies whose Product / Service mentions 'thermal' and list their EV Supply Chain Role and Primary Facility Type.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List companies whose Product / Service mentions 'powder coatings' and include their Category and Location.\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "List companies whose Product / Service mentions 'powder coatings' and include their Category and Location.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List companies whose Product / Service mentions 'powder coatings' and include their Category and Location.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List companies whose Product / Service mentions 'powder coatings' and include their Category and Location.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List companies whose Product / Service mentions 'powder coatings' and include their Category and Location.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List companies whose Product / Service mentions 'powder coatings' and include their Category and Location.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies mention 'sensors' in Product / Service, and what EV Supply Chain Role are they assigned?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies mention 'sensors' in Product / Service, and what EV Supply Chain Role are they assigned?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies mention 'sensors' in Product / Service, and what EV Supply Chain Role are they assigned?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies mention 'sensors' in Product / Service, and what EV Supply Chain Role are they assigned?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies mention 'sensors' in Product / Service, and what EV Supply Chain Role are they assigned?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies mention 'sensors' in Product / Service, and what EV Supply Chain Role are they assigned?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Classification Method, count the number of companies and list the top 5 companies by Employment within each method.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Classification Method, count the number of companies and list the top 5 companies by Employment within each method.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Classification Method, count the number of companies and list the top 5 companies by Employment within each method.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "For each Classification Method, count the number of companies and list the top 5 companies by Employment within each method.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Classification Method, count the number of companies and list the top 5 companies by Employment within each method.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "For each Classification Method, count the number of companies and list the top 5 companies by Employment within each method.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify entries classified as 'Public OEM footprint / supplier listing' and summarize their Categories and EV / Battery Relevant status.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify entries classified as 'Public OEM footprint / supplier listing' and summarize their Categories and EV / Battery Relevant status.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify entries classified as 'Public OEM footprint / supplier listing' and summarize their Categories and EV / Battery Relevant status.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Identify entries classified as 'Public OEM footprint / supplier listing' and summarize their Categories and EV / Battery Relevant status.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify entries classified as 'Public OEM footprint / supplier listing' and summarize their Categories and EV / Battery Relevant status.\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Identify entries classified as 'Public OEM footprint / supplier listing' and summarize their Categories and EV / Battery Relevant status.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are classified as Direct Manufacturer, and what EV Supply Chain Roles do they cover?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are classified as Direct Manufacturer, and what EV Supply Chain Roles do they cover?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are classified as Direct Manufacturer, and what EV Supply Chain Roles do they cover?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Which companies are classified as Direct Manufacturer, and what EV Supply Chain Roles do they cover?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are classified as Direct Manufacturer, and what EV Supply Chain Roles do they cover?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies are classified as Direct Manufacturer, and what EV Supply Chain Roles do they cover?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Among companies classified as Supplier, which EV Supply Chain Role appears most frequently?\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Among companies classified as Supplier, which EV Supply Chain Role appears most frequently?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies classified as Supplier, which EV Supply Chain Role appears most frequently?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Among companies classified as Supplier, which EV Supply Chain Role appears most frequently?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies classified as Supplier, which EV Supply Chain Role appears most frequently?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among companies classified as Supplier, which EV Supply Chain Role appears most frequently?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find any companies where Category indicates an OEM-related class (starts with 'OEM') but Supplier or Affiliation Type is not filled; list those companies.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find any companies where Category indicates an OEM-related class (starts with 'OEM') but Supplier or Affiliation Type is not filled; list those companies.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find any companies where Category indicates an OEM-related class (starts with 'OEM') but Supplier or Affiliation Type is not filled; list those companies.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Find any companies where Category indicates an OEM-related class (starts with 'OEM') but Supplier or Affiliation Type is not filled; list those companies.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Find any companies where Category indicates an OEM-related class (starts with 'OEM') but Supplier or Affiliation Type is not filled; list those companies.\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Find any companies where Category indicates an OEM-related class (starts with 'OEM') but Supplier or Affiliation Type is not filled; list those companies.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Methodology sheet, what is the minimum employment threshold used to include companies in this dataset?\u241fqwen_rag": {
+      "answer_accuracy": 0.25
+    },
+    "According to the Methodology sheet, what is the minimum employment threshold used to include companies in this dataset?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.25
+    },
+    "According to the Methodology sheet, what is the minimum employment threshold used to include companies in this dataset?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Methodology sheet, what is the minimum employment threshold used to include companies in this dataset?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Methodology sheet, what is the minimum employment threshold used to include companies in this dataset?\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "According to the Methodology sheet, what is the minimum employment threshold used to include companies in this dataset?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Definitions sheet, how is the Location field formatted and how are City values standardized?\u241fqwen_rag": {
+      "answer_accuracy": 0.75
+    },
+    "According to the Definitions sheet, how is the Location field formatted and how are City values standardized?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Definitions sheet, how is the Location field formatted and how are City values standardized?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "According to the Definitions sheet, how is the Location field formatted and how are City values standardized?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Definitions sheet, how is the Location field formatted and how are City values standardized?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Definitions sheet, how is the Location field formatted and how are City values standardized?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Definitions sheet, what controlled vocabulary is used for EV Supply Chain Role (list the roles mentioned in the definition)?\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "According to the Definitions sheet, what controlled vocabulary is used for EV Supply Chain Role (list the roles mentioned in the definition)?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Definitions sheet, what controlled vocabulary is used for EV Supply Chain Role (list the roles mentioned in the definition)?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.5
+    },
+    "According to the Definitions sheet, what controlled vocabulary is used for EV Supply Chain Role (list the roles mentioned in the definition)?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Definitions sheet, what controlled vocabulary is used for EV Supply Chain Role (list the roles mentioned in the definition)?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Definitions sheet, what controlled vocabulary is used for EV Supply Chain Role (list the roles mentioned in the definition)?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies in Category = OEM Footprint and provide their Employment and EV Supply Chain Role.\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "List all companies in Category = OEM Footprint and provide their Employment and EV Supply Chain Role.\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies in Category = OEM Footprint and provide their Employment and EV Supply Chain Role.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "List all companies in Category = OEM Footprint and provide their Employment and EV Supply Chain Role.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "List all companies in Category = OEM Footprint and provide their Employment and EV Supply Chain Role.\u241fgemini_rag": {
+      "answer_accuracy": 0.25
+    },
+    "List all companies in Category = OEM Footprint and provide their Employment and EV Supply Chain Role.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have Primary Facility Type = Regional corporate operations, and what are their Categories and Locations?\u241fqwen_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Which companies have Primary Facility Type = Regional corporate operations, and what are their Categories and Locations?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Which companies have Primary Facility Type = Regional corporate operations, and what are their Categories and Locations?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have Primary Facility Type = Regional corporate operations, and what are their Categories and Locations?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have Primary Facility Type = Regional corporate operations, and what are their Categories and Locations?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Which companies have Primary Facility Type = Regional corporate operations, and what are their Categories and Locations?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among EV / Battery Relevant = Yes companies, which Industry Groups are represented and how many companies are in each?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "Among EV / Battery Relevant = Yes companies, which Industry Groups are represented and how many companies are in each?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among EV / Battery Relevant = Yes companies, which Industry Groups are represented and how many companies are in each?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.25
+    },
+    "Among EV / Battery Relevant = Yes companies, which Industry Groups are represented and how many companies are in each?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among EV / Battery Relevant = Yes companies, which Industry Groups are represented and how many companies are in each?\u241fgemini_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Among EV / Battery Relevant = Yes companies, which Industry Groups are represented and how many companies are in each?\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 1 suppliers, identify companies in 'Electronic and Other Electrical Equipment and Components' and list their Product / Service.\u241fqwen_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 1 suppliers, identify companies in 'Electronic and Other Electrical Equipment and Components' and list their Product / Service.\u241fqwen_no_rag": {
+      "answer_accuracy": 1.0
+    },
+    "Within Tier 1 suppliers, identify companies in 'Electronic and Other Electrical Equipment and Components' and list their Product / Service.\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 1 suppliers, identify companies in 'Electronic and Other Electrical Equipment and Components' and list their Product / Service.\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "Within Tier 1 suppliers, identify companies in 'Electronic and Other Electrical Equipment and Components' and list their Product / Service.\u241fgemini_rag": {
+      "answer_accuracy": 0.75
+    },
+    "Within Tier 1 suppliers, identify companies in 'Electronic and Other Electrical Equipment and Components' and list their Product / Service.\u241fgemini_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Methodology sheet, how are supply chain tiers assigned (what approach is described)?\u241fqwen_rag": {
+      "answer_accuracy": 0.5
+    },
+    "According to the Methodology sheet, how are supply chain tiers assigned (what approach is described)?\u241fqwen_no_rag": {
+      "answer_accuracy": 0.5
+    },
+    "According to the Methodology sheet, how are supply chain tiers assigned (what approach is described)?\u241ftinyllama_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Methodology sheet, how are supply chain tiers assigned (what approach is described)?\u241ftinyllama_no_rag": {
+      "answer_accuracy": 0.0
+    },
+    "According to the Methodology sheet, how are supply chain tiers assigned (what approach is described)?\u241fgemini_rag": {
+      "answer_accuracy": NaN
+    },
+    "According to the Methodology sheet, how are supply chain tiers assigned (what approach is described)?\u241fgemini_no_rag": {
+      "answer_accuracy": NaN
+    }
+  }
+}
