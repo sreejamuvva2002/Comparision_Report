@@ -51,8 +51,8 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--judge-model",
-        default="qwen2.5:14b",
-        help="Ollama model used by RAGAS for scoring.",
+        default="gemma3:4b",
+        help="Ollama model used by RAGAS for scoring. Ollama models are quantized builds by default.",
     )
     parser.add_argument(
         "--reference-model",
